@@ -1,6 +1,5 @@
 # ECCV-2024-Papers
-d:\WeChat Files\WeChat Files\wxid_uq1fmtv8bf3e12\FileStorage\Temp\9d937d1549556f0b5a866e3fa80f555.png
-
+![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240319161853.png)
 ## 官网链接：https://eccv.ecva.net/
 
 ### 主会 :bell:：9 月 29 日（周日）至 10 月 4 日
