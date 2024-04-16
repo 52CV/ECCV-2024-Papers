@@ -8,7 +8,8 @@
 
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
-
+↘️[CVPR-2024-Papers](https://github.com/52CV/CVPR-2024-Papers)
+↘️[ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers)
 ## 2023 年论文分类汇总戳这里
 ↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
 ↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
@@ -19,7 +20,13 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-* [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment](http://arxiv.org/abs/2403.11956v1)<br>:star:[code](https://github.com/QMME/T2VQA)
+## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* [The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning](https://arxiv.org/abs/2404.09778)<br>:star:[code](https://github.com/Mark-Sky/KCL)
+
+## GAN/Image Synthesis(图像生成)
+* 视频生成
+  * 文本-视频质量评估
+    * [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment](http://arxiv.org/abs/2403.11956v1)<br>:star:[code](https://github.com/QMME/T2VQA)
 
 
 
