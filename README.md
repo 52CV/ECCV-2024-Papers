@@ -30,7 +30,8 @@
 * 视频生成
   * 文本-视频质量评估
     * [Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment](http://arxiv.org/abs/2403.11956v1)<br>:star:[code](https://github.com/QMME/T2VQA)
-
+* 图像编辑
+  * [ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion](https://export.arxiv.org/abs/2404.17230)
 
 
 
