@@ -22,6 +22,7 @@
 ## 异常检测
 * OOD
   * [Gradient-Regularized Out-of-Distribution Detection](https://export.arxiv.org/abs/2404.12368)
+  * [PixOOD: Pixel-Level Out-of-Distribution Detection](https://arxiv.org/abs/2405.19882)
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
 * [The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning](https://arxiv.org/abs/2404.09778)<br>:star:[code](https://github.com/Mark-Sky/KCL)
