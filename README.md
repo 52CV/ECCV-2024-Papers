@@ -19,7 +19,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月2日更新32+16篇，共计29+48篇。
+7月2日更新31+16篇，共计29+47篇。
 
 * [FreeInit: Bridging Initialization Gap in Video Diffusion Models](https://arxiv.org/abs/2312.07537)<br>:star:[code](https://github.com/TianxingWu/FreeInit)<br>:house:[project](https://tianxingwu.github.io/pages/FreeInit/)
 * [Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge](https://arxiv.org/abs/2404.01492)<br>:star:[code](https://github.com/heitorrapela/ModTr)
@@ -77,7 +77,6 @@
 
 ## Rendering(渲染)
 * [AnyLens: A Generative Diffusion Model with Any Rendering Lens](https://arxiv.org/abs/2311.17609)(https://anylens-diffusion.github.io/)
-* [CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians](http://arxiv.org/abs/2404.01133)<br>:house:[project](https://dekuliutesla.github.io/citygs/)
 * [CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians](http://arxiv.org/abs/2404.01133)<br>:star:[code](https://github.com/DekuLiuTesla/CityGaussian)<br>:house:[project](https://dekuliutesla.github.io/citygs/)
 
 ## Neural Radiance Fields
@@ -108,13 +107,22 @@
 * 时序动作定位
   * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
 
+
+## Person Re-Identification(人员重识别)
+* 计数
+  * [CountFormer: Multi-View Crowd Counting Transformer](http://arxiv.org/abs/2407.02047v1)
+
 ## Point Clouds(点云)
 * [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911)<br>:star:[code](https://github.com/OpenRobotLab/PointLLM)<br>:house:[project](https://runsenxu.com/projects/PointLLM/)
+* [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://export.arxiv.org/abs/2407.01851)
 
 ## 异常检测
 * OOD
   * [Gradient-Regularized Out-of-Distribution Detection](https://export.arxiv.org/abs/2404.12368)
   * [PixOOD: Pixel-Level Out-of-Distribution Detection](https://arxiv.org/abs/2405.19882)
+
+## Novel Class Discovery(新类发现)
+* [Self-Cooperation Knowledge Distillation for Novel Class Discovery](http://arxiv.org/abs/2407.01930v1)
 
 ##
 * [DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs](https://arxiv.org/abs/2403.19588)<br>:star:[code](https://github.com/naver-ai/rdnet)
@@ -147,6 +155,7 @@
   * [Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion](http://arxiv.org/abs/2407.02077v1)<br>:star:[code](https://github.com/Arlo0o/HTCL)
 
 ## Video
+* [Multi-Modal Video Dialog State Tracking in the Wild](http://arxiv.org/abs/2407.02218v1)
 * VAD
   * [Cross-Domain Learning for Video Anomaly Detection with Limited Supervision]()
 
@@ -182,6 +191,9 @@
 * GIF 生成
   * [Pix2Gif: Motion-Guided Diffusion for GIF Generation](https://arxiv.org/abs/2403.04634)<br>:house:[project](https://hiteshk03.github.io/Pix2Gif/)
 
+## Image Retrieval(图像检索)
+* 基于草图的图像检索
+  * [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](http://arxiv.org/abs/2407.01810v1)
 
 ## Image Segmentation(图像分割)
 * [Occlusion-Aware Seamless Segmentation](http://arxiv.org/abs/2407.02182v1)<br>:star:[code](https://github.com/yihong-97/OASS)
@@ -232,6 +244,8 @@
 * [Rasterized Edge Gradients: Handling Discontinuities Differentiably](https://arxiv.org/abs/2405.02508)
 * [Layer-Wise Relevance Propagation with Conservation Property for ResNet]()<br>:house:[project](https://lrp-for-resnet-project-page-pvgmt.kinsta.page/)
 * [Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance](https://arxiv.org/abs/2403.17377)<br>:house:[project](https://ku-cvlab.github.io/Perturbed-Attention-Guidance)
+* [SparseSSP: 3D Subcellular Structure Prediction from Sparse-View Transmitted Light Images](http://arxiv.org/abs/2407.02159v1)
+* [ViG-Bias: Visually Grounded Bias Discovery and Mitigation](http://arxiv.org/abs/2407.01996v1)
 
 <a name="0"/>
 
