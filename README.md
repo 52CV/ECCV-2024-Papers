@@ -19,7 +19,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月12日更新18篇，共计 290+18 篇。
+7月12日更新19篇，共计 290+19 篇。
 * [RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos](https://arxiv.org/pdf/2312.06729)<br>:star:[code](https://github.com/Tanveer81/RGNet)<br>:house:[project](https://sites.google.com/view/rgnet/home)
 * [Acquisition of Spatially-Varying Reflectance and Surface Normals via Polarized Reflectance Fields]<br>:house:[project](https://jingyangcarl.github.io/PolarizedReflectanceField/)
 * [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920)<br>:star:[code](https://github.com/sherwinbahmani/tc4d)<br>:house:[project](https://sherwinbahmani.github.io/tc4d/)
@@ -437,6 +437,7 @@ ASDF
 * 3D目标检测
   * [Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene](http://arxiv.org/abs/2407.08569v1)
   * [CMD: A Cross Mechanism Domain Adaptation Dataset for 3D Object Detection]<br>:thumbsup:[DIG从密度、强度和几何三方面缓和传感器体制带来的点云数据差异，显著提升了域自适应算法的性能。](https://std.xmu.edu.cn/2024/0710/c4739a488273/page.htm)
+  * [Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection](https://arxiv.org/abs/2402.03634)<br>:star:[code](https://github.com/LiewFeng/RayDN)
 * 小目标检测
   * [IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection](http://arxiv.org/abs/2407.07520v1)
 * 三维目标检测
@@ -544,6 +545,7 @@ ASDF
 * [Recursive Visual Programming](https://arxiv.org/abs/2312.02249)<br>:star:[code](https://github.com/para-lost/RVP)
 * [Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation](http://arxiv.org/abs/2407.09367v1)<br>:star:[code](https://github.com/z1358/OBAO)
 * [Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems](http://arxiv.org/abs/2407.09352v1)<br>:star:[code](https://luo-ziyuan.github.io/Imaging-Interiors)
+* [Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection](https://arxiv.org/abs/2402.03634)<br>:star:[code](https://github.com/LiewFeng/RayDN)
 
 <a name="0"/>
 
