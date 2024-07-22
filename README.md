@@ -20,7 +20,32 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 7月22日更新24篇，共计 497+24 篇。
+* [DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks](http://arxiv.org/abs/2407.14509v1)
+* [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](http://arxiv.org/abs/2407.14499v1)<br>:star:[code](https://github.com/neuroexplicit-saar/discover-then-name)
+* [Contrastive Learning with Counterfactual Explanations for Radiology Report Generation](http://arxiv.org/abs/2407.14474v1)
+* [Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model](http://arxiv.org/abs/2407.14434v1)
+* [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](http://arxiv.org/abs/2407.14412v1)
+* [Straightforward Layer-wise Pruning for More Efficient Visual Adaptation](http://arxiv.org/abs/2407.14330v1)
+* [Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition](http://arxiv.org/abs/2407.14302v1)
+* [SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization](http://arxiv.org/abs/2407.14257v1)<br>:star:[code](https://sparsecraft.github.io)
 
+
+* [Bucketed Ranking-based Losses for Efficient Training of Object Detectors](http://arxiv.org/abs/2407.14204v1)<br>:star:[code](https://github.com/blisgard/BucketedRankingBasedLosses)
+* [Forbes: Face Obfuscation Rendering via Backpropagation Refinement Scheme](http://arxiv.org/abs/2407.14170v1)<br>:star:[code](https://github.com/mcljtkim/Forbes)
+* [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](http://arxiv.org/abs/2407.14143v1)<br>:star:[code](https://github.com/linlany/RAPF)
+* [Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation](http://arxiv.org/abs/2407.14142v1)<br>:star:[code](https://github.com/zhengyuan-xie/ECCV24_NeST)
+* [Mono-ViFI: A Unified Learning Framework for Self-supervised Single- and Multi-frame Monocular Depth Estimation](http://arxiv.org/abs/2407.14126v1)<br>:star:[code](https://github.com/LiuJF1226/Mono-ViFI)
+* [MC-PanDA: Mask Confidence for Panoptic Domain Adaptation](http://arxiv.org/abs/2407.14110v1)<br>:star:[code](https://github.com/helen1c/MC-PanDA)
+* [Decomposed Vector-Quantized Variational Autoencoder for Human Grasp Generation](http://arxiv.org/abs/2407.14062v1)<br>:star:[code](https://github.com/florasion/D-VQVAE)
+* [Regularizing Dynamic Radiance Fields with Kinematic Fields](http://arxiv.org/abs/2407.14059v1)
+* [PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training](http://arxiv.org/abs/2407.14054v1)<br>:star:[code](https://github.com/Chen-Suyi/PointRegGPT)
+* [Multi-modal Relation Distillation for Unified 3D Representation Learning](http://arxiv.org/abs/2407.14007v1)
+* [RealViformer: Investigating Attention for Real-World Video Super-Resolution](http://arxiv.org/abs/2407.13987v1)<br>:star:[code](https://github.com/Yuehan717/RealViformer)
+* [Personalized Privacy Protection Mask Against Unauthorized Facial Recognition](http://arxiv.org/abs/2407.13975v1)
+* [Continual Learning for Remote Physiological Measurement: Minimize Forgetting and Simplify Inference](http://arxiv.org/abs/2407.13974v1)<br>:star:[code](https://github.com/MayYoY/rPPGDIL)
+* [RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark](http://arxiv.org/abs/2407.13930v1)<br>:house:[project](https://huggingface.co/datasets/uwipl/RT-Pose)
+* [X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs](http://arxiv.org/abs/2407.13851v1)
+* [Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance](http://arxiv.org/abs/2407.13842v1)<br>:star:[code](https://airvlab.github.io/grasp-anything)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
