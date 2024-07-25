@@ -19,23 +19,13 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月24日更新14篇，共计 567+14 篇。
-* [Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions](http://arxiv.org/abs/2407.16698v1)<br>:star:[code](https://diffusion4robustdepth.github.io/)<br>:star:[code](https://github.com/fabiotosi92/Diffusion4RobustDepth)
-* [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](http://arxiv.org/abs/2407.16696v1)<br>:star:[code](https://provencestar.github.io/PartGLEE-Vision/)
-* [EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval](http://arxiv.org/abs/2407.16658v1)<br>:star:[code](https://github.com/ExplainableML/EgoCVR)
-* [Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection](http://arxiv.org/abs/2407.16497v1)<br>:star:[code](https://github.com/lbktrinh/DRU)
-* [MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection](http://arxiv.org/abs/2407.16448v1)<br>:star:[code](https://github.com/VisualAIKHU/MonoWAD)
-* [Learning Unsigned Distance Functions from Multi-view Images with Volume Rendering Priors](http://arxiv.org/abs/2407.16396v1)<br>:star:[code](https://wen-yuan-zhang.github.io/VolumeRenderingPriors/)
-* [SAFNet: Selective Alignment Fusion Network for Efficient HDR Imaging](http://arxiv.org/abs/2407.16308v1)<br>:star:[code](https://github.com/ltkong218/SAFNet)
-* [HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis](http://arxiv.org/abs/2407.16269v1)
-* [DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors](http://arxiv.org/abs/2407.16260v1)<br>:star:[code](https://chester256.github.io/dreamdissector)
-* [CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation](http://arxiv.org/abs/2407.16193v1)<br>:star:[code](https://github.com/shimazing/CloudFixer)
-* [Learning Trimodal Relation for AVQA with Missing Modality](http://arxiv.org/abs/2407.16171v1)
-* [Open-Set Biometrics: Beyond Good Closed-Set Models](http://arxiv.org/abs/2407.16133v1)<br>:star:[code](https://github.com/prevso1088/open-set-biometrics)
-* [Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems](http://arxiv.org/abs/2407.16125v1)<br>:star:[code](https://github.com/mlvlab/DAVI)
-* [Diffusion Models as Optimizers for Efficient Planning in Offline RL](http://arxiv.org/abs/2407.16142v1)<br>:star:[code](https://github.com/RenMing-Huang/TrajectoryDiffuser)
+7月25日更新5篇，共计 581+5 篇。
+* [Multi-label Cluster Discrimination for Visual Representation Learning](http://arxiv.org/abs/2407.17331v1)
+* [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
+* [EAFormer: Scene Text Segmentation with Edge-Aware Transformers](http://arxiv.org/abs/2407.17020v1)
+* [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](http://arxiv.org/abs/2407.16957v1)<br>:star:[code](https://github.com/jinyeying/RaindropClarity)
+* [SINDER: Repairing the Singular Defects of DINOv2](http://arxiv.org/abs/2407.16826v1)<br>:star:[code](https://github.com/haoqiwang/sinder)
 
-<br>:house:[project]()
 
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
@@ -113,6 +103,7 @@ ASDF
 * 数据集
   * [VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models](https://arxiv.org/abs/2311.17404)<br>:star:[code](https://github.com/lscpku/VITATECS)
   * [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://arxiv.org/abs/2402.17553)
+  * [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](http://arxiv.org/abs/2407.16957v1)<br>:star:[code](https://github.com/jinyeying/RaindropClarity)
   * [PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition](http://arxiv.org/abs/2407.10918v1)
   * [WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding](http://arxiv.org/abs/2407.15350v1)<br>:star:[code](https://woven-visionai.github.io/wts-dataset-homepage/)
   * [PetFace: A Large-Scale Dataset and Benchmark for Animal Identification](http://arxiv.org/abs/2407.13555v1)<br>:star:[code](https://dahlian00.github.io/PetFacePage/)
@@ -571,6 +562,7 @@ ASDF
   * [Open Panoramic Segmentation](http://arxiv.org/abs/2407.02685v1)<br>:star:[code](https://junweizheng93.github.io/publications/OPS/OPS.html)
 * 语义分割
   * [Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2407.02286v1)
+  * [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
   * [Distributed Semantic Segmentation with Efficient Joint Source and Task Decoding](http://arxiv.org/abs/2407.11224v1)
   * [FREST: Feature RESToration for Semantic Segmentation under Multiple Adverse Conditions](http://arxiv.org/abs/2407.13437v1)
   * [Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation](http://arxiv.org/abs/2407.13254v1)<br>:star:[code](https://github.com/skyshoumeng/Label_Assisted_Distillation)
@@ -607,6 +599,8 @@ ASDF
   * [Eliminating Feature Ambiguity for Few-Shot Segmentation](http://arxiv.org/abs/2407.09842v1)<br>:star:[code](https://github.com/Sam1224/AENet)
 * 参考图像分割
   * [Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation](http://arxiv.org/abs/2407.07412v1)
+* 场景文本分割
+  * [EAFormer: Scene Text Segmentation with Edge-Aware Transformers](http://arxiv.org/abs/2407.17020v1)
 * 指代表达式分割
   * [SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation](http://arxiv.org/abs/2407.02389v1)
 * VIS
@@ -887,6 +881,8 @@ ASDF
 * [Differentiable Convex Polyhedra Optimization from Multi-view Images](http://arxiv.org/abs/2407.15686v1)<br>:star:[code](https://github.com/kimren227/DiffConvex)
 * [A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control](http://arxiv.org/abs/2407.15631v1)
 * [Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment](https://arxiv.org/abs/2405.05079)
+* [Multi-label Cluster Discrimination for Visual Representation Learning](http://arxiv.org/abs/2407.17331v1)
+* [SINDER: Repairing the Singular Defects of DINOv2](http://arxiv.org/abs/2407.16826v1)<br>:star:[code](https://github.com/haoqiwang/sinder)
 
 <a name="0"/>
 
