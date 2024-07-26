@@ -19,14 +19,16 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月25日更新5篇，共计 581+5 篇。
-* [Multi-label Cluster Discrimination for Visual Representation Learning](http://arxiv.org/abs/2407.17331v1)
-* [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
-* [EAFormer: Scene Text Segmentation with Edge-Aware Transformers](http://arxiv.org/abs/2407.17020v1)
-* [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](http://arxiv.org/abs/2407.16957v1)<br>:star:[code](https://github.com/jinyeying/RaindropClarity)
-* [SINDER: Repairing the Singular Defects of DINOv2](http://arxiv.org/abs/2407.16826v1)<br>:star:[code](https://github.com/haoqiwang/sinder)
-
-
+7月26日更新9篇，共计 586+9 篇。
+* [Trajectory-aligned Space-time Tokens for Few-shot Action Recognition](http://arxiv.org/abs/2407.18249v1)<br>:house:[project](https://www.cs.umd.edu/~pulkit/tats)
+* [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2407.18247v1)<br>:star:[code](https://visual-ai.github.io/regiondrag)
+* [Geometry Fidelity for Spherical Images](http://arxiv.org/abs/2407.18207v1)
+* [Efficient Inference of Vision Instruction-Following Models with Elastic Cache](http://arxiv.org/abs/2407.18121v1)<br>:star:[code](https://github.com/liuzuyan/ElasticCache)
+* [AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild](http://arxiv.org/abs/2407.18034v1)
+* [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](http://arxiv.org/abs/2407.17857v1)<br>:star:[code](https://github.com/UNITES-Lab/Mew)
+* [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](http://arxiv.org/abs/2407.17850v1)
+* [Topology-Preserving Downsampling of Binary Images](http://arxiv.org/abs/2407.17786v1)
+* [Quality Assured: Rethinking Annotation Strategies in Imaging AI](http://arxiv.org/abs/2407.17596v1)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -171,22 +173,27 @@ ASDF
 * 运动迁移
   * [Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation](http://arxiv.org/abs/2407.11266v1)<br>:star:[code](https://github.com/rongakowang/MMDMC)
 
+
+
 ## Action Detection(动作检测)
 * [LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning](https://arxiv.org/pdf/2312.03849.pdf)<br>:star:[code](https://github.com/BolinLai/LEGO)<br>:house:[project](https://bolinlai.github.io/Lego_EgoActGen/)
 * [ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos](http://arxiv.org/abs/2407.12987v1)
 * 基于骨架的动作识别
   * [SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders](http://arxiv.org/abs/2407.13460v1)<br>:star:[code](https://github.com/pha123661/SA-DVAE)
+* 小样本动作识别
+  * [Trajectory-aligned Space-time Tokens for Few-shot Action Recognition](http://arxiv.org/abs/2407.18249v1)<br>:house:[project](https://www.cs.umd.edu/~pulkit/tats)
 * 时序动作检测
   * [DyFADet: Dynamic Feature Aggregation for Temporal Action Detection](http://arxiv.org/abs/2407.03197v1)<br>:star:[code](https://github.com/yangle15/DyFADet-pytorch)
+* 时序动作定位
+  * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
+  * [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](http://arxiv.org/abs/2407.07673v1)
 * 动作预测 
   * [Semantically Guided Representation Learning For Action Anticipation](http://arxiv.org/abs/2407.02309v1)
 * 动作识别
   * [Referring Atomic Video Action Recognition](https://export.arxiv.org/abs/2407.01872)<br>:star:[code](https://github.com/KPeng9510/RAVAR)
   * [C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2407.06113v1)<br>:star:[code](https://github.com/RongchangLi/ZSCAR_C2C)
   * [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](http://arxiv.org/abs/2407.06628v1)
-* 时序动作定位
-  * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
-  * [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](http://arxiv.org/abs/2407.07673v1)
+
 
 ## Visual Question Answering(视觉问答)
 * [WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering](http://arxiv.org/abs/2407.05603v1)<br>:star:[code](https://github.com/cpystan/WSI-VQA)
@@ -458,12 +465,14 @@ ASDF
   * [Video Editing via Factorized Diffusion Distillation](https://arxiv.org/abs/2403.09334)
 * 图像编辑
   * [ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion](https://export.arxiv.org/abs/2404.17230)
+  * [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2407.18247v1)<br>:star:[code](https://visual-ai.github.io/regiondrag)
   * [3DEgo: 3D Editing on the Go!](http://arxiv.org/abs/2407.10102v1)<br>:star:[code](https://3dego.github.io/)
   * [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947)<br>:house:[project](https://ashmrz.github.io/WatchYourSteps/)
   * [Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts](http://arxiv.org/abs/2407.06842v1)<br>:house:[project](https://sk-fun.fun/CE3D")
   * [InstructGIE: Towards Generalizable Image Editing](https://arxiv.org/abs/2403.05018)
   * [Lazy Diffusion Transformer for Interactive Image Editing](https://arxiv.org/abs/2404.12382)<br>:house:[project](https://lazydiffusion.github.io/)
   * [DATENeRF: Depth-Aware Text-based Editing of NeRFs](https://arxiv.org/abs/2404.04526)<br>:star:[code](https://github.com/sararoma95/DATENeRF)<br>:house:[project](https://datenerf.github.io/DATENeRF/)
+  * [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](http://arxiv.org/abs/2407.17850v1)
 * 图像-视频
    * [Rethinking Image-to-Video Adaptation: An Object-centric Perspective](http://arxiv.org/abs/2407.06871v1)
 * 文本-视频
@@ -834,7 +843,12 @@ ASDF
 * [SparseSSP: 3D Subcellular Structure Prediction from Sparse-View Transmitted Light Images](http://arxiv.org/abs/2407.02159v1)
 * [ViG-Bias: Visually Grounded Bias Discovery and Mitigation](http://arxiv.org/abs/2407.01996v1)
 * [DOCCI: Descriptions of Connected and Contrasting Images](https://arxiv.org/pdf/2404.19753)<br>:house:[project](https://google.github.io/docci)
-
+* [Geometry Fidelity for Spherical Images](http://arxiv.org/abs/2407.18207v1)
+* [Efficient Inference of Vision Instruction-Following Models with Elastic Cache](http://arxiv.org/abs/2407.18121v1)<br>:star:[code](https://github.com/liuzuyan/ElasticCache)
+* [AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild](http://arxiv.org/abs/2407.18034v1)
+* [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](http://arxiv.org/abs/2407.17857v1)<br>:star:[code](https://github.com/UNITES-Lab/Mew)
+* [Topology-Preserving Downsampling of Binary Images](http://arxiv.org/abs/2407.17786v1)
+* [Quality Assured: Rethinking Annotation Strategies in Imaging AI](http://arxiv.org/abs/2407.17596v1)
 * [Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models](http://arxiv.org/abs/2407.15408v1)<br>:house:[project](https://kfworks.com/CAR-WP/)
 * [Data Collection-free Masked Video Modeling]()
 * [An Implicit Solution to Inverse Scattering Problems]
