@@ -587,7 +587,7 @@ ASDF
     * [Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier](http://arxiv.org/abs/2407.04036v1)
     * [Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation](http://arxiv.org/abs/2407.12630v1)
   * 弱监督语义分割
-    * [Knowledge Transfer with Simulated Inter-Image Erasing for Weakly Supervised Semantic Segmentation](http://arxiv.org/abs/2407.02768v1)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/KTSE)
+    * [Knowledge Transfer with Simulated Inter-Image Erasing for Weakly Supervised Semantic Segmentation](http://arxiv.org/abs/2407.02768v1)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/KTSE)<br>通过模拟图像间擦除实现知识转移，弱监督语义分割再也不怕过扩展问题，助力精准目标定位！
     * [Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras](http://arxiv.org/abs/2407.11216v1)<br>:star:[code](https://github.com/Chohoonhee/EV-WSSS)
     * [3D weakly supervised semantic segmentation with 2D vision-language guidance]
     * [Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation](http://arxiv.org/abs/2407.13363v1)
@@ -852,7 +852,7 @@ ASDF
 * [An Implicit Solution to Inverse Scattering Problems]
 * [Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](https://arxiv.org/abs/2403.17823)<br>:star:[code](https://github.com/alexandre-eymael/CropMAE)
 * [Möbius Transform for Mitigating Perspective Distortions in Representation Learning](https://arxiv.org/abs/2405.02296)
-* [Foster Adaptivity and Balance in Learning with Noisy Labels](http://arxiv.org/abs/2407.02778v1)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SED)
+* [Foster Adaptivity and Balance in Learning with Noisy Labels](http://arxiv.org/abs/2407.02778v1)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/SED)<br>无需先验知识即可高效解决深度学习中的噪声标签问题，让模型性能和鲁棒性大幅提升！
 * [Solving Motion Planning Tasks with a Scalable Generative Model](http://arxiv.org/abs/2407.02797v1)<br>:star:[code](https://github.com/HorizonRobotics/GUMP/)
 * [4D Contrastive Superflows are Dense 3D Representation Learners](http://arxiv.org/abs/2407.06190v1)<br>:star:[code](https://github.com/Xiangxu-0103/SuperFlow)
 * [Learning to Complement and to Defer to Multiple Users](http://arxiv.org/abs/2407.07003v1)
