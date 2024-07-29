@@ -19,16 +19,13 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月26日更新9篇，共计 586+9 篇。
-* [Trajectory-aligned Space-time Tokens for Few-shot Action Recognition](http://arxiv.org/abs/2407.18249v1)<br>:house:[project](https://www.cs.umd.edu/~pulkit/tats)
-* [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2407.18247v1)<br>:star:[code](https://visual-ai.github.io/regiondrag)
-* [Geometry Fidelity for Spherical Images](http://arxiv.org/abs/2407.18207v1)
-* [Efficient Inference of Vision Instruction-Following Models with Elastic Cache](http://arxiv.org/abs/2407.18121v1)<br>:star:[code](https://github.com/liuzuyan/ElasticCache)
-* [AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild](http://arxiv.org/abs/2407.18034v1)
-* [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](http://arxiv.org/abs/2407.17857v1)<br>:star:[code](https://github.com/UNITES-Lab/Mew)
-* [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](http://arxiv.org/abs/2407.17850v1)
-* [Topology-Preserving Downsampling of Binary Images](http://arxiv.org/abs/2407.17786v1)
-* [Quality Assured: Rethinking Annotation Strategies in Imaging AI](http://arxiv.org/abs/2407.17596v1)
+7月29日更新6篇，共计 575+6 篇。
+* [SHIC: Shape-Image Correspondences with no Keypoint Supervision](http://arxiv.org/abs/2407.18907v1)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/shic/)
+* [Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence](http://arxiv.org/abs/2407.18899v1)<br>:star:[code](https://github.com/lyumengyao/lftl)
+* [Scalable Group Choreography via Variational Phase Manifold Learning](http://arxiv.org/abs/2407.18839v1)
+* [Deep Companion Learning: Enhancing Generalization Through Historical Consistency](http://arxiv.org/abs/2407.18821v1)
+* [Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations](http://arxiv.org/abs/2407.18500v1)<br>:star:[code](https://vlislab22.github.io/EvINR/)
+* [Neural Surface Detection for Unsigned Distance Fields](http://arxiv.org/abs/2407.18381v1)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -346,6 +343,7 @@ ASDF
   * [Training-Free Model Merging for Multi-target Domain Adaptation](http://arxiv.org/abs/2407.13771v1)<br>:star:[code](https://air-discover.github.io/ModelMerging)
   * [MC-PanDA: Mask Confidence for Panoptic Domain Adaptation](http://arxiv.org/abs/2407.14110v1)<br>:star:[code](https://github.com/helen1c/MC-PanDA)
   * [Is user feedback always informative? Retrieval Latent Defending for Semi-Supervised Domain Adaptation without Source Data](http://arxiv.org/abs/2407.15383v1)<br>:house:[project](https://sites.google.com/view/junha/nbf-rld)
+  * [Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence](http://arxiv.org/abs/2407.18899v1)<br>:star:[code](https://github.com/lyumengyao/lftl)
 
 ## Vision-Language(视觉语言)
 * [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](http://arxiv.org/abs/2407.14412v1)
@@ -897,6 +895,11 @@ ASDF
 * [Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment](https://arxiv.org/abs/2405.05079)
 * [Multi-label Cluster Discrimination for Visual Representation Learning](http://arxiv.org/abs/2407.17331v1)
 * [SINDER: Repairing the Singular Defects of DINOv2](http://arxiv.org/abs/2407.16826v1)<br>:star:[code](https://github.com/haoqiwang/sinder)
+* [SHIC: Shape-Image Correspondences with no Keypoint Supervision](http://arxiv.org/abs/2407.18907v1)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/shic/)
+* [Scalable Group Choreography via Variational Phase Manifold Learning](http://arxiv.org/abs/2407.18839v1)
+* [Deep Companion Learning: Enhancing Generalization Through Historical Consistency](http://arxiv.org/abs/2407.18821v1)
+* [Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations](http://arxiv.org/abs/2407.18500v1)<br>:star:[code](https://vlislab22.github.io/EvINR/)
+* [Neural Surface Detection for Unsigned Distance Fields](http://arxiv.org/abs/2407.18381v1)
 
 <a name="0"/>
 
