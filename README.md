@@ -19,13 +19,23 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月29日更新6篇，共计 575+6 篇。
-* [SHIC: Shape-Image Correspondences with no Keypoint Supervision](http://arxiv.org/abs/2407.18907v1)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/shic/)
-* [Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence](http://arxiv.org/abs/2407.18899v1)<br>:star:[code](https://github.com/lyumengyao/lftl)
-* [Scalable Group Choreography via Variational Phase Manifold Learning](http://arxiv.org/abs/2407.18839v1)
-* [Deep Companion Learning: Enhancing Generalization Through Historical Consistency](http://arxiv.org/abs/2407.18821v1)
-* [Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations](http://arxiv.org/abs/2407.18500v1)<br>:star:[code](https://vlislab22.github.io/EvINR/)
-* [Neural Surface Detection for Unsigned Distance Fields](http://arxiv.org/abs/2407.18381v1)
+7月30日更新15篇，共计 581+15 篇。
+* [Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229v1)<br>:star:[code](https://ywyue.github.io/FiT3D)
+* [FlexAttention for Efficient High-Resolution Vision-Language Models](http://arxiv.org/abs/2407.20228v1)
+* [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](http://arxiv.org/abs/2407.20223v1)<br>:house:[project](https://sites.google.com/view/eccv24-equivalign)
+* [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)<br>:star:[code](https://github.com/colmap/glomap)
+* [Classification Matters: Improving Video Action Detection with Class-Specific Attention](http://arxiv.org/abs/2407.19698v1)
+* [Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment](http://arxiv.org/abs/2407.19675v1)
+* [Take A Step Back: Rethinking the Two Stages in Visual Reasoning](http://arxiv.org/abs/2407.19666v1)<br>:star:[code](https://mybearyzhang.github.io/projects/TwoStageReason/)
+* [Look Hear: Gaze Prediction for Speech-directed Human Attention](http://arxiv.org/abs/2407.19605v1)
+* [UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation](http://arxiv.org/abs/2407.19542v1)<br>:star:[code](https://github.com/freemantom/UniVoxel)
+* [WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting](http://arxiv.org/abs/2407.19507v1)
+* [On the Evaluation Consistency of Attribution-based Explanations](http://arxiv.org/abs/2407.19471v1)<br>:star:[code](https://github.com/TreeThree-R/Meta-Rank)
+* [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](http://arxiv.org/abs/2407.19259v1)<br>:star:[code](https://github.com/Zhuzi24/SBG)
+* [Sparse Refinement for Efficient High-Resolution Semantic Segmentation](http://arxiv.org/abs/2407.19014v1)<br>:house:[project](https://sparserefine.mit.edu)
+* [PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery](http://arxiv.org/abs/2407.19001v1)<br>:star:[code](https://visual-ai.github.io/promptccd)
+* [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](https://arxiv.org/abs/2407.19593)<br>:house:[project](http://shahrukhathar.github.io/2024/07/22/Bridging.html)
+
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -65,6 +75,7 @@ ASDF
 * [GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views](http://arxiv.org/abs/2407.08221v1)
 * [MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References](http://arxiv.org/abs/2407.13745v1)<br>:star:[code](https://boelukas.github.io/mariner/)
 * [Learning Unsigned Distance Functions from Multi-view Images with Volume Rendering Priors](http://arxiv.org/abs/2407.16396v1)<br>:star:[code](https://wen-yuan-zhang.github.io/VolumeRenderingPriors/)
+* [UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation](http://arxiv.org/abs/2407.19542v1)<br>:star:[code](https://github.com/freemantom/UniVoxel)
 
 ## Neural Radiance Fields
 * [Invertible Neural Warp for NeRF](http://arxiv.org/abs/2407.12354v1)<br>:star:[code](https://sfchng.github.io/ineurowarping-github.io/)
@@ -135,6 +146,9 @@ ASDF
   * [Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance](http://arxiv.org/abs/2407.13842v1)<br>:star:[code](https://airvlab.github.io/grasp-anything)
   * [6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model](http://arxiv.org/abs/2407.15484v1)<br>:star:[code](https://mbortolon97.github.io/6dgs/)
 
+## Human–Computer Interaction(人机交互)
+* [Look Hear: Gaze Prediction for Speech-directed Human Attention](http://arxiv.org/abs/2407.19605v1)
+
 ## Robots(机器人)
 * 机器人
   * [Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation](https://arxiv.org/abs/2401.07487)<br>:house:[project](https://tea-lab.github.io/Robo-ABC/)
@@ -184,12 +198,15 @@ ASDF
 * 时序动作定位
   * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
   * [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](http://arxiv.org/abs/2407.07673v1)
+* 动作质量评估
+  * [Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment](http://arxiv.org/abs/2407.19675v1)
 * 动作预测 
   * [Semantically Guided Representation Learning For Action Anticipation](http://arxiv.org/abs/2407.02309v1)
 * 动作识别
   * [Referring Atomic Video Action Recognition](https://export.arxiv.org/abs/2407.01872)<br>:star:[code](https://github.com/KPeng9510/RAVAR)
   * [C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2407.06113v1)<br>:star:[code](https://github.com/RongchangLi/ZSCAR_C2C)
   * [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](http://arxiv.org/abs/2407.06628v1)
+  * [Classification Matters: Improving Video Action Detection with Class-Specific Attention](http://arxiv.org/abs/2407.19698v1)
 
 
 ## Visual Question Answering(视觉问答)
@@ -231,6 +248,7 @@ ASDF
 * 点云配准
   * [ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency](http://arxiv.org/abs/2407.09862v1)<br>:star:[code](https://github.com/Laka-3DV/ML-SemReg)
   * [PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training](http://arxiv.org/abs/2407.14054v1)<br>:star:[code](https://github.com/Chen-Suyi/PointRegGPT)
+  * [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](http://arxiv.org/abs/2407.20223v1)<br>:house:[project](https://sites.google.com/view/eccv24-equivalign)
 * 点云分割
   * [Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation](http://arxiv.org/abs/2407.12489v1)
   * [HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation](http://arxiv.org/abs/2407.12387v1)<br>:star:[code](https://github.com/tpzou/HGL)
@@ -347,6 +365,8 @@ ASDF
 
 ## Vision-Language(视觉语言)
 * [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](http://arxiv.org/abs/2407.14412v1)
+* [FlexAttention for Efficient High-Resolution Vision-Language Models](http://arxiv.org/abs/2407.20228v1)
+* [Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229v1)<br>:star:[code](https://ywyue.github.io/FiT3D)
 * [Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models](http://arxiv.org/abs/2407.11717v1)
 * [ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference](http://arxiv.org/abs/2407.12442v1)<br>:star:[code](https://github.com/mc-)
 * [FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance](http://arxiv.org/abs/2407.05578v1)
@@ -358,6 +378,7 @@ ASDF
 * [Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training](https://arxiv.org/abs/2403.02325)<br>:house:[project](https://contrastive-region-guidance.github.io/)
 * [Unveiling Typographic Deceptions: Insights of the Typographic Vulnerability in Large Vision-Language Model](https://arxiv.org/abs/2402.19150)
 * [Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks](https://arxiv.org/abs/2403.09377)
+* [Take A Step Back: Rethinking the Two Stages in Visual Reasoning](http://arxiv.org/abs/2407.19666v1)<br>:star:[code](https://mybearyzhang.github.io/projects/TwoStageReason/)
 * [Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models](http://arxiv.org/abs/2407.05342v1)<br>:star:[code](https://github.com/lloongx/DIKI)
 * [Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2407.11422v1)<br>:star:[code](https://zjr2000.github.io/projects/reverie)
 * [SDPT: Synchronous Dual Prompt Tuning for Fusion-based Visual-Language Pre-trained Models](http://arxiv.org/abs/2407.11414v1)<br>:star:[code](https://github.com/wuyongjianCODE/SDPT)
@@ -384,6 +405,8 @@ ASDF
 * 场景图生成
   * [OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models](http://arxiv.org/abs/2407.11213v1)<br>:star:[code](https://github.com/franciszzj/OpenPSG)
   * [Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation](http://arxiv.org/abs/2407.15396v1)
+  * [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](http://arxiv.org/abs/2407.19259v1)<br>:star:[code](https://github.com/Zhuzi24/SBG)
+
 
 ## Automated Driving(自动驾驶)
 * [Continuity Preserving Online CenterLine Graph Learning](http://arxiv.org/abs/2407.11337v1)
@@ -569,6 +592,7 @@ ASDF
   * [Open Panoramic Segmentation](http://arxiv.org/abs/2407.02685v1)<br>:star:[code](https://junweizheng93.github.io/publications/OPS/OPS.html)
 * 语义分割
   * [Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2407.02286v1)
+  * [Sparse Refinement for Efficient High-Resolution Semantic Segmentation](http://arxiv.org/abs/2407.19014v1)<br>:house:[project](https://sparserefine.mit.edu)
   * [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
   * [Distributed Semantic Segmentation with Efficient Joint Source and Task Decoding](http://arxiv.org/abs/2407.11224v1)
   * [FREST: Feature RESToration for Semantic Segmentation under Multiple Adverse Conditions](http://arxiv.org/abs/2407.13437v1)
@@ -717,6 +741,7 @@ ASDF
   * [Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking](http://arxiv.org/abs/2407.10151v1)<br>:star:[code](https://github.com/lorenzovaquero/BUSCA)
 
 ## OCR
+* [WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting](http://arxiv.org/abs/2407.19507v1)
 * 手写文本检测
   * [Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition](https://export.arxiv.org/abs/2404.18260)
   * [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](http://arxiv.org/abs/2407.07764v1)<br>:star:[code](https://github.com/SJTU-DeepVisionLab/PosFormer)
@@ -804,11 +829,12 @@ ASDF
 * 视频重建
   * [Temporal Residual Guided Diffusion Framework for Event-Driven Video Reconstruction](http://arxiv.org/abs/2407.10636v1)
 
-## Other
+## Other(其它)
 * [Dataset Growth](https://arxiv.org/abs/2405.18347)<br>:star:[code](https://github.com/NUS-HPC-AI-Lab/InfoGrowth)
 * [Adaptive Parametric Activation](https://arxiv.org/abs/2407.08567)<br>:star:[code](https://github.com/kostas1515/AGLU)
 * [Nonverbal Interaction Detection](http://arxiv.org/abs/2407.08133v1)<br>:star:[code](https://github.com/weijianan1/NVI)
 * [Situated Instruction Following](https://arxiv.org/abs/2407.12061)<br>:house:[project](https://soyeonm.github.io/SIF_webpage/)
+* [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)<br>:star:[code](https://github.com/colmap/glomap)
 * [GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation](http://arxiv.org/abs/2407.13537v1)<br>:star:[code](https://github.com/wu-cvgl/GlobalPointer)
 * [ColorMAE: Exploring data-independent masking strategies in Masked AutoEncoders](http://arxiv.org/abs/2407.13036v1)
 * [Scalar Function Topology Divergence: Comparing Topology of 3D Objects](http://arxiv.org/abs/2407.08364v1)
@@ -817,6 +843,7 @@ ASDF
 * [Occupancy as Set of Points](http://arxiv.org/abs/2407.04049v1)<br>:star:[code](https://github.com/hustvl/osp)
 * [PartCraft: Crafting Creative Objects by Parts](http://arxiv.org/abs/2407.04604v1)<br>:star:[code](https://github.com/kamwoh/partcraft)
 * [SLIM: Spuriousness Mitigation with Minimal Human Annotations](http://arxiv.org/abs/2407.05594v1)<br>:star:[code](https://github.com/xiweix/SLIM.git/)
+* [On the Evaluation Consistency of Attribution-based Explanations](http://arxiv.org/abs/2407.19471v1)<br>:star:[code](https://github.com/TreeThree-R/Meta-Rank)
 * [GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation](http://arxiv.org/abs/2407.05540v1)<br>:star:[code](https://gtp-4-o.github.io/)
 * [OvSW: Overcoming Silent Weights for Accurate Binary Neural Networks](http://arxiv.org/abs/2407.05257v1)<br>:star:[code](https://github.com/JingyangXiang/OvSW)
 * [SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](http://arxiv.org/abs/2407.05118v1)<br>:star:[code](https://github.com/zxccade/SHINE)
@@ -828,6 +855,8 @@ ASDF
 * [Neural Graphics Texture Compression Supporting Random Acces](https://arxiv.org/abs/2407.00021)  
 * [Rasterized Edge Gradients: Handling Discontinuities Differentiably](https://arxiv.org/abs/2405.02508)
 * [LookupViT: Compressing visual information to a limited number of tokens](http://arxiv.org/abs/2407.12753v1)
+* [PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery](http://arxiv.org/abs/2407.19001v1)<br>:star:[code](https://visual-ai.github.io/promptccd)
+* [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](https://arxiv.org/abs/2407.19593)<br>:house:[project](http://shahrukhathar.github.io/2024/07/22/Bridging.html)
 * [Any Target Can be Offense: Adversarial Example Generation via Generalized Latent Infection](http://arxiv.org/abs/2407.12292v1)<br>:star:[code](https://github.com/VL-Group/GAKer)
 * [Generating 3D House Wireframes with Semantics](http://arxiv.org/abs/2407.12267v1)<br>:star:[code](https://github.com/3d-house-wireframe/3d-house-wireframe-dataset)<br>:house:[project](https://vcc.tech/research/2024/3DWire)
 * [Motion and Structure from Event-based Normal Flow](http://arxiv.org/abs/2407.12239v1)
