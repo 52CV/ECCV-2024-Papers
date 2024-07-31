@@ -19,28 +19,15 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月30日更新15篇，共计 581+15 篇。
-* [Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229v1)<br>:star:[code](https://ywyue.github.io/FiT3D)
-* [FlexAttention for Efficient High-Resolution Vision-Language Models](http://arxiv.org/abs/2407.20228v1)
-* [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](http://arxiv.org/abs/2407.20223v1)<br>:house:[project](https://sites.google.com/view/eccv24-equivalign)
-* [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)<br>:star:[code](https://github.com/colmap/glomap)
-* [Classification Matters: Improving Video Action Detection with Class-Specific Attention](http://arxiv.org/abs/2407.19698v1)
-* [Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment](http://arxiv.org/abs/2407.19675v1)
-* [Take A Step Back: Rethinking the Two Stages in Visual Reasoning](http://arxiv.org/abs/2407.19666v1)<br>:star:[code](https://mybearyzhang.github.io/projects/TwoStageReason/)
-* [Look Hear: Gaze Prediction for Speech-directed Human Attention](http://arxiv.org/abs/2407.19605v1)
-* [UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation](http://arxiv.org/abs/2407.19542v1)<br>:star:[code](https://github.com/freemantom/UniVoxel)
-* [WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting](http://arxiv.org/abs/2407.19507v1)
-* [On the Evaluation Consistency of Attribution-based Explanations](http://arxiv.org/abs/2407.19471v1)<br>:star:[code](https://github.com/TreeThree-R/Meta-Rank)
-* [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](http://arxiv.org/abs/2407.19259v1)<br>:star:[code](https://github.com/Zhuzi24/SBG)
-* [Sparse Refinement for Efficient High-Resolution Semantic Segmentation](http://arxiv.org/abs/2407.19014v1)<br>:house:[project](https://sparserefine.mit.edu)
-* [PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery](http://arxiv.org/abs/2407.19001v1)<br>:star:[code](https://visual-ai.github.io/promptccd)
-* [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](https://arxiv.org/abs/2407.19593)<br>:house:[project](http://shahrukhathar.github.io/2024/07/22/Bridging.html)
-
+7月31日更新5篇，共计 596+5 篇。
+* [SceneTeller: Language-to-3D Scene Generation](http://arxiv.org/abs/2407.20727v1)<br>:star:[code](https://sceneteller.github.io/)
+* [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](http://arxiv.org/abs/2407.20657v1)<br>:star:[code](https://PDCL-Attack.github.io)
+* [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](http://arxiv.org/abs/2407.20542v1)<br>:star:[code](https://github.com/cwc1260/HandDAGT)
+* [BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues](http://arxiv.org/abs/2407.20341v1)<br>:star:[code](https://github.com/aimagelab/bridge-score)
+* [Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities](http://arxiv.org/abs/2407.20337v1)<br>:star:[code](https://github.com/aimagelab/CoDE)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
-
-
 
 
 ## Information Security(信息安全)
@@ -49,6 +36,7 @@ ASDF
 
 ## Deepfake Detection
 * [Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition]<br>:thumbsup:[文档图像篡改检测 (DITD) 方法——特征融合与分解网络 (FFDN)](https://std.xmu.edu.cn/2024/0710/c4739a488273/page.htm)
+* [Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities](http://arxiv.org/abs/2407.20337v1)<br>:star:[code](https://github.com/aimagelab/CoDE)
 
 ## Feature Matching 
 * [Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](http://arxiv.org/abs/2407.07789v1)
@@ -328,6 +316,7 @@ ASDF
   * [Event Trojan: Asynchronous Event-based Backdoor Attacks](https://arxiv.org/abs/2407.06838)<br>:star:[code](https://github.com/rfww/EventTrojan)
   * [Data Poisoning Quantization Backdoor Attack]
   * [Flatness-aware Sequential Learning Generates Resilient Backdoors]
+  * [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](http://arxiv.org/abs/2407.20657v1)<br>:star:[code](https://PDCL-Attack.github.io)
   * [Self-Supervised Representation Learning for Adversarial Attack Detection](http://arxiv.org/abs/2407.04382v1)
   * [Prediction Exposes Your Face: Black-box Model Inversion via Prediction Alignment](http://arxiv.org/abs/2407.08127v1)
   * [CLIP-Guided Networks for Transferable Targeted Attacks](http://arxiv.org/abs/2407.10179v1)
@@ -395,6 +384,7 @@ ASDF
 ## Scene 
 * 场景合成
   * [Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085)
+  * [SceneTeller: Language-to-3D Scene Generation](http://arxiv.org/abs/2407.20727v1)<br>:star:[code](https://sceneteller.github.io/)
   * [Forest2Seq: Revitalizing Order Prior for Sequential Indoor Scene Synthesis](http://arxiv.org/abs/2407.05388v1)
 * 场景理解
   * [N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields](https://arxiv.org/pdf/2403.10997v1)
@@ -548,6 +538,7 @@ ASDF
 * [Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](http://arxiv.org/abs/2407.11683v1)<br>:star:[code](https://github.com/tuyunbin/DIRL)
 * [CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation](http://arxiv.org/abs/2407.11393v1)<br>:star:[code](https://github.com/SamsungLabs/CIC-BART-SSA)
 * [Controllable Contextualized Image Captioning: Directing the Visual Narrative through User-Defined Highlights](http://arxiv.org/abs/2407.11449v1)<br>:star:[code](https://github.com/ShunqiM/Ctrl-CIC)
+* [BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues](http://arxiv.org/abs/2407.20341v1)<br>:star:[code](https://github.com/aimagelab/bridge-score)
 
 ## Image/video Compression(图像/视频压缩)
 * [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](http://arxiv.org/abs/2407.09853v1)<br>:star:[code](https://github.com/qingshi9974/ECCV2024-AdpatICMH)
@@ -772,6 +763,8 @@ ASDF
   * [HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning](http://arxiv.org/abs/2407.15844v1)
 * 3D手部重建
   * [Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance](http://arxiv.org/abs/2407.12307v1)
+* 手部姿态估计
+  * [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](http://arxiv.org/abs/2407.20542v1)<br>:star:[code](https://github.com/cwc1260/HandDAGT)
 
 ## Face(人脸)
 * [Task-adaptive Q-Face](https://arxiv.org/abs/2405.09059)
