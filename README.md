@@ -424,6 +424,7 @@ ASDF
 * 视频理解
   * [VideoMamba: Spatio-Temporal Selective State Space Model](http://arxiv.org/abs/2407.08476v1)<br>:star:[code](http://github.com/jinyjelly/VideoMamba)
   * [Goldfish: Vision-Language Understanding of Arbitrarily Long Videos](http://arxiv.org/abs/2407.12679v1)<br>:star:[code](https://vision-cair.github.io/Goldfish_website/)
+  * [Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)<br>:star:[code](https://github.com/showlab/MovieSeq)
 * 视频分类
   * [Open Vocabulary Multi-Label Video Classification](http://arxiv.org/abs/2407.09073v1)
 * 视频解析
@@ -850,7 +851,6 @@ ASDF
 * [PartCraft: Crafting Creative Objects by Parts](http://arxiv.org/abs/2407.04604v1)<br>:star:[code](https://github.com/kamwoh/partcraft)
 * [SLIM: Spuriousness Mitigation with Minimal Human Annotations](http://arxiv.org/abs/2407.05594v1)<br>:star:[code](https://github.com/xiweix/SLIM.git/)
 * [Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation](http://arxiv.org/abs/2407.21450v1)<br>:star:[code](https://skrya.github.io/projects/ffn-dsr/)
-* [Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)<br>:star:[code](https://github.com/showlab/MovieSeq)
 * [On the Evaluation Consistency of Attribution-based Explanations](http://arxiv.org/abs/2407.19471v1)<br>:star:[code](https://github.com/TreeThree-R/Meta-Rank)
 * [GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation](http://arxiv.org/abs/2407.05540v1)<br>:star:[code](https://gtp-4-o.github.io/)
 * [OvSW: Overcoming Silent Weights for Accurate Binary Neural Networks](http://arxiv.org/abs/2407.05257v1)<br>:star:[code](https://github.com/JingyangXiang/OvSW)
