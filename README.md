@@ -19,12 +19,16 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-7月31日更新5篇，共计 596+5 篇。
-* [SceneTeller: Language-to-3D Scene Generation](http://arxiv.org/abs/2407.20727v1)<br>:star:[code](https://sceneteller.github.io/)
-* [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](http://arxiv.org/abs/2407.20657v1)<br>:star:[code](https://PDCL-Attack.github.io)
-* [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](http://arxiv.org/abs/2407.20542v1)<br>:star:[code](https://github.com/cwc1260/HandDAGT)
-* [BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues](http://arxiv.org/abs/2407.20341v1)<br>:star:[code](https://github.com/aimagelab/bridge-score)
-* [Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities](http://arxiv.org/abs/2407.20337v1)<br>:star:[code](https://github.com/aimagelab/CoDE)
+8月1日更新9篇，共计 601+9 篇。
+* [Expressive Whole-Body 3D Gaussian Avatar](http://arxiv.org/abs/2407.21686v1)<br>:star:[code](https://mks0601.github.io/ExAvatar/)
+* [MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment](http://arxiv.org/abs/2407.21654v1)
+* [A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging](http://arxiv.org/abs/2407.21517v1)<br>:star:[code](https://github.com/mcao92/QuantizedSCI)
+* [Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation](http://arxiv.org/abs/2407.21450v1)<br>:star:[code](https://skrya.github.io/projects/ffn-dsr/)
+* [Accelerating Image Super-Resolution Networks with Pixel-Level Classification](http://arxiv.org/abs/2407.21448v1)<br>:star:[code](https://github.com/3587jjh/PCSR)
+* [Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging](http://arxiv.org/abs/2407.21381v1)
+* [Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)<br>:star:[code](https://github.com/showlab/MovieSeq)
+* [PAV: Personalized Head Avatar from Unstructured Video Collection](https://arxiv.org/abs/2407.21047)<br>:house:[project](https://akincaliskan3d.github.io/PAV)
+* [Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion](https://arxiv.org/abs/2407.21032)<br>:star:[code](https://github.com/nannullna/safeguard-hfi)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -161,6 +165,7 @@ ASDF
   * [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](http://arxiv.org/abs/2407.06938v1)<br>:star:[code](https://rodinhd.github.io/)
   * [PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual Observations](https://arxiv.org/abs/2404.04421)<br>:house:[project](https://qingqing-zhao.github.io/PhysAvatar)
   * [iHuman: Instant Animatable Digital Humans From Monocular Videos](http://arxiv.org/abs/2407.11174v1)
+  * [PAV: Personalized Head Avatar from Unstructured Video Collection](https://arxiv.org/abs/2407.21047)<br>:house:[project](https://akincaliskan3d.github.io/PAV)
 
 ## Human-Object Interaction
 * [Controllable Human-Object Interaction Synthesis](https://arxiv.org/pdf/2312.03913.pdf)<br>:house:[project](https://lijiaman.github.io/projects/chois/)
@@ -427,6 +432,7 @@ ASDF
 ## Medical Image Progress(医学影响处理)
 * [Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling](http://arxiv.org/abs/2407.08256v1)
 * [Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model](http://arxiv.org/abs/2407.14434v1)
+* [Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging](http://arxiv.org/abs/2407.21381v1)
 * 切片图像分类
   * [DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2407.03575v1)<br>:star:[code](https://github.com/ChongQingNoSubway/DGR-MIL)
   * [Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2407.10814v1)
@@ -502,6 +508,7 @@ ASDF
 * 文本-图像
   * [Navigating Text-to-lmage Generative Bias acrossIndic Languages]
   * [Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation](https://arxiv.org/abs/2403.07860)<br>:star:[code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)<br>:house:[project](https://shihaozhaozsh.github.io/LaVi-Bridge/)
+  * [Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion](https://arxiv.org/abs/2407.21032)<br>:star:[code](https://github.com/nannullna/safeguard-hfi)
   * [Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers](http://arxiv.org/abs/2407.08394v1)
   * [The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation](http://arxiv.org/abs/2407.12579v1)<br>:star:[code](https://leo81005.github.io/Reality-and-Fantasy/)
   * [Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models](http://arxiv.org/abs/2407.12383v1)<br>:star:[code](https://github.com/CharlesGong12/RECE)
@@ -540,12 +547,15 @@ ASDF
 * [Controllable Contextualized Image Captioning: Directing the Visual Narrative through User-Defined Highlights](http://arxiv.org/abs/2407.11449v1)<br>:star:[code](https://github.com/ShunqiM/Ctrl-CIC)
 * [BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues](http://arxiv.org/abs/2407.20341v1)<br>:star:[code](https://github.com/aimagelab/bridge-score)
 
+
+
 ## Image/video Compression(图像/视频压缩)
 * [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](http://arxiv.org/abs/2407.09853v1)<br>:star:[code](https://github.com/qingshi9974/ECCV2024-AdpatICMH)
 * [Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](http://arxiv.org/abs/2407.10632v1)
 * [Rate-Distortion-Cognition Controllable Versatile Neural Image Compression](http://arxiv.org/abs/2407.11700v1)
 * 视频压缩
   * [Hierarchical Separable Video Transformer for Snapshot Compressive Imaging](http://arxiv.org/abs/2407.11946v1)<br>:star:[code](https://github.com/pwangcs/HiSViT)
+  * [A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging](http://arxiv.org/abs/2407.21517v1)<br>:star:[code](https://github.com/mcao92/QuantizedSCI)
 
 ## Image Retrieval(图像检索)
 * [RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos](https://arxiv.org/pdf/2312.06729)<br>:star:[code](https://github.com/Tanveer81/RGNet)<br>:house:[project](https://sites.google.com/view/rgnet/home)
@@ -583,6 +593,7 @@ ASDF
   * [Open Panoramic Segmentation](http://arxiv.org/abs/2407.02685v1)<br>:star:[code](https://junweizheng93.github.io/publications/OPS/OPS.html)
 * 语义分割
   * [Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2407.02286v1)
+  * [MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment](http://arxiv.org/abs/2407.21654v1)
   * [Sparse Refinement for Efficient High-Resolution Semantic Segmentation](http://arxiv.org/abs/2407.19014v1)<br>:house:[project](https://sparserefine.mit.edu)
   * [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
   * [Distributed Semantic Segmentation with Efficient Joint Source and Task Decoding](http://arxiv.org/abs/2407.11224v1)
@@ -676,6 +687,7 @@ ASDF
 * [HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution](http://arxiv.org/abs/2407.05878v1)
 * [Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution](http://arxiv.org/abs/2407.07302v1)<br>:star:[code](https://github.com/Yuehan717/PDD)
 * [UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt](http://arxiv.org/abs/2407.13108v1)<br>:star:[code](https://lixinustc.github.io/UCIP.github.io)
+* [Accelerating Image Super-Resolution Networks with Pixel-Level Classification](http://arxiv.org/abs/2407.21448v1)<br>:star:[code](https://github.com/3587jjh/PCSR)
 * VSR
   * [Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors](http://arxiv.org/abs/2407.09919v1)<br>:star:[code](https://github.com/shangwei5/ST-AVSR)
   * [RealViformer: Investigating Attention for Real-World Video Super-Resolution](http://arxiv.org/abs/2407.13987v1)<br>:star:[code](https://github.com/Yuehan717/RealViformer)
@@ -742,6 +754,7 @@ ASDF
 
 ## Pose(姿态估计)
 * [VQ-HPS: Human Pose and Shape Estimation in a Vector-Quantized Latent Space]<br>:house:[project](https://g-fiche.github.io/research-pages/vqhps/static/data/VQ-HPS_arxiv.pdf)
+* [Expressive Whole-Body 3D Gaussian Avatar](http://arxiv.org/abs/2407.21686v1)<br>:star:[code](https://mks0601.github.io/ExAvatar/)
 * [GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation](http://arxiv.org/abs/2407.10756v1)
 * [COSMU: Complete 3D human shape from monocular unconstrained images](http://arxiv.org/abs/2407.10586v1)
 * [Modeling and Driving Human Body Soundfields through Acoustic Primitives](http://arxiv.org/abs/2407.13083v1)<br>:star:[code](https://wikichao.github.io/Acoustic-Primitives/)
@@ -836,6 +849,8 @@ ASDF
 * [Occupancy as Set of Points](http://arxiv.org/abs/2407.04049v1)<br>:star:[code](https://github.com/hustvl/osp)
 * [PartCraft: Crafting Creative Objects by Parts](http://arxiv.org/abs/2407.04604v1)<br>:star:[code](https://github.com/kamwoh/partcraft)
 * [SLIM: Spuriousness Mitigation with Minimal Human Annotations](http://arxiv.org/abs/2407.05594v1)<br>:star:[code](https://github.com/xiweix/SLIM.git/)
+* [Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation](http://arxiv.org/abs/2407.21450v1)<br>:star:[code](https://skrya.github.io/projects/ffn-dsr/)
+* [Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)<br>:star:[code](https://github.com/showlab/MovieSeq)
 * [On the Evaluation Consistency of Attribution-based Explanations](http://arxiv.org/abs/2407.19471v1)<br>:star:[code](https://github.com/TreeThree-R/Meta-Rank)
 * [GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation](http://arxiv.org/abs/2407.05540v1)<br>:star:[code](https://gtp-4-o.github.io/)
 * [OvSW: Overcoming Silent Weights for Accurate Binary Neural Networks](http://arxiv.org/abs/2407.05257v1)<br>:star:[code](https://github.com/JingyangXiang/OvSW)
