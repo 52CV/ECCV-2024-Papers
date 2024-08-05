@@ -19,21 +19,11 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-8月2日更新14篇，共计 610+14 篇。
-* [Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation](http://arxiv.org/abs/2408.00766v1)<br>:star:[code](https://yixiaowang7.github.io/OptTrajDiff_Page/)
-* [Text-Guided Video Masked Autoencoder](http://arxiv.org/abs/2408.00759v1)
-* [Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation](http://arxiv.org/abs/2408.00744v1)<br>:star:[code](https://github.com/jiaosiyu1999/MAFT-Plus.git)
-* [Scaling Backwards: Minimal Synthetic Pre-training?](http://arxiv.org/abs/2408.00677v1)
-* [Towards Reliable Advertising Image Generation Using Human Feedback](http://arxiv.org/abs/2408.00418v1)
-* [High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior](http://arxiv.org/abs/2408.00361v1)
-* [DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation](http://arxiv.org/abs/2408.00331v1)<br>:star:[code](https://github.com/kowshikthopalli/DECIDER/)
-* [EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head](http://arxiv.org/abs/2408.00297v1)<br>:star:[code](https://nju-3dv.github.io/projects/EmoTalk3D)
-* [Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360°](http://arxiv.org/abs/2408.00296v1)<br>:star:[code](https://nju-3dv.github.io/projects/Head360)
-* [Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection](http://arxiv.org/abs/2408.00286v1)
-* [CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation](http://arxiv.org/abs/2408.00181v1)
-* [WAS: Dataset and Methods for Artistic Text Segmentation](http://arxiv.org/abs/2408.00106v1)
-* [Navigating Text-to-Image Generative Bias across Indic Languages](http://arxiv.org/abs/2408.00283v1)<br>:house:[project](https://iab-rubric.org/resources/other-databases/indictti)
-* [Hierarchically Structured Neural Bones for Reconstructing Animatable Objects from Casual Videos](https://arxiv.org/abs/2408.00351)
+8月5日更新4篇，共计 624+4 篇。
+* [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](http://arxiv.org/abs/2408.01291v1)<br>:star:[code](https://dong-huo.github.io/TexGen/)
+* [An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding](http://arxiv.org/abs/2408.01120v1)<br>:star:[code](https://github.com/chenwei746/EEVG)
+* [Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model](http://arxiv.org/abs/2408.01044v1)
+* [POA: Pre-training Once for Models of All Sizes](http://arxiv.org/abs/2408.01031v1)<br>:star:[code](https://github.com/Qichuzyy/POA)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -145,6 +135,7 @@ ASDF
 
 ## Human–Computer Interaction(人机交互)
 * [Look Hear: Gaze Prediction for Speech-directed Human Attention](http://arxiv.org/abs/2407.19605v1)
+* [Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model](http://arxiv.org/abs/2408.01044v1)
 
 ## Robots(机器人)
 * 机器人
@@ -285,6 +276,7 @@ ASDF
   * [SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning](http://arxiv.org/abs/2407.08148v1)<br>:star:[code](https://github.com/RM-Zhang/SCPNet)
   * [Efficient Unsupervised Visual Representation Learning with Explicit Cluster Balancing](http://arxiv.org/abs/2407.11168v1)
   * [OmniSat: Self-Supervised Modality Fusion for Earth Observation](https://arxiv.org/pdf/2404.08351)<br>:star:[code](https://github.com/gastruc/OmniSat)<br>:house:[project](https://gastruc.github.io/projects/omnisat.html)<br>:sunflower:[dataset](https://huggingface.co/datasets/IGNF/PASTIS-HD)
+  * [POA: Pre-training Once for Models of All Sizes](http://arxiv.org/abs/2408.01031v1)<br>:star:[code](https://github.com/Qichuzyy/POA)
   
 
 ## Novel Class Discovery(新类发现)
@@ -313,6 +305,7 @@ ASDF
 * [OAT: Object-Level Attention Transformer for Gaze Scanpath Prediction](http://arxiv.org/abs/2407.13335v1)
 * [Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach](http://arxiv.org/abs/2407.06964v1)
 * [LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer](https://arxiv.org/abs/2212.09877)<br>:star:[code](https://github.com/salesforce/LayoutDETR)
+* [An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding](http://arxiv.org/abs/2408.01120v1)<br>:star:[code](https://github.com/chenwei746/EEVG)
 
 ## Multimodal Learning(多模态学习)
 * [Diagnosing and Re-learning for Balanced Multimodal Learning](http://arxiv.org/abs/2407.09705v1)<br>:star:[code](https://github.com/GeWu-Lab/Diagnosing_Relearning_ECCV2024)
@@ -468,6 +461,7 @@ ASDF
 * [LogoSticker: Inserting Logos into Diffusion Models for Customized Generation](http://arxiv.org/abs/2407.13752v1)<br>:star:[code](https://mingkangz.github.io/logosticker)
 * 纹理合成
   * [VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing](http://arxiv.org/abs/2407.04461v1)
+  * [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](http://arxiv.org/abs/2408.01291v1)<br>:star:[code](https://dong-huo.github.io/TexGen/)
 * 图像合成
   * [Editable Image Elements for Controllable Synthesis](https://arxiv.org/abs/2404.16029)<br>:house:[project](https://jitengmu.github.io/Editable_Image_Elements/)
   * [Assessing Sample Quality via the Latent Space of Generative Models](http://arxiv.org/abs/2407.15171v1)<br>:star:[code](https://github.com/cvlab-stonybrook/LS-sample-quality)
