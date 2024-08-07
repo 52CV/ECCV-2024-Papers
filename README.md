@@ -19,21 +19,15 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-8月6日更新14篇，共计 628+14 篇。
-* [Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics](https://arxiv.org/abs/2408.02672)
-* [Tensorial template matching for fast cross-correlation with rotations and its application for tomography](https://arxiv.org/abs/2408.02398)
-* [SelfGeo: Self-supervised and Geodesic-consistent Estimation of Keypoints on Deformable Shapes](https://arxiv.org/abs/2408.02291)
-* [Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts](https://arxiv.org/abs/2408.02265)
-* [COM Kitchens: An Unedited Overhead-view Video Dataset as a Vision-Language Benchmark](https://arxiv.org/abs/2408.02272)
-* [Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs](https://arxiv.org/abs/2408.02261)
-* [REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models](https://arxiv.org/abs/2408.02231)<br>:house:[project](https://agneetchatterjee.com/revision/)
-* [ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation](https://arxiv.org/abs/2408.02226)<br>:house:[project](https://procreate-diffusion.github.io/)
-* [Source-Free Domain-Invariant Performance Prediction](https://arxiv.org/abs/2408.02209)
-* [PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance](https://arxiv.org/abs/2408.02157)
-* [RICA^2: Rubric-Informed, Calibrated Assessment of Actions](https://arxiv.org/abs/2408.02138)
-* [Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image](https://arxiv.org/abs/2408.02079)
-* [3D Single-object Tracking in Point Clouds with High Temporal Variation](https://arxiv.org/abs/2408.02049)
-* [Masked Angle-Aware Autoencoder for Remote Sensing Images](https://arxiv.org/abs/2408.01946)
+8月7日更新8篇，共计 642+8 篇。
+* [ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](http://arxiv.org/abs/2408.03284v1)<br>:star:[code](https://guanjz20.github.io/projects/ReSyncer)
+* [AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval](http://arxiv.org/abs/2408.03282v1)<br>:star:[code](https://github.com/pavelsuma/ames)
+* [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](http://arxiv.org/abs/2408.02966v1)
+* [Online Temporal Action Localization with Memory-Augmented Transformer](http://arxiv.org/abs/2408.02957v1)<br>:house:[project](https://cvlab.postech.ac.kr/research/MATR/)
+* [GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers](http://arxiv.org/abs/2408.02840v1)<br>:star:[code](https://github.com/manupillai308/GAReT)
+* [GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths](http://arxiv.org/abs/2408.02788v1)
+* [Diffusion Models as Data Mining Tools](http://arxiv.org/abs/2408.02752v1)<br>:star:[code](https://diff-mining.github.io/)
+* [Multistain Pretraining for Slide Representation Learning in Pathology](http://arxiv.org/abs/2408.02859v1)<br>:star:[code](https://github.com/mahmoodlab/MADELEINE)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -167,6 +161,8 @@ ASDF
 * Try-On
   * [Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models](https://arxiv.org/abs/2403.07371)
   * [D$^4$-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On](http://arxiv.org/abs/2407.15111v1)
+* 交叉地理定位
+  * [GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers](http://arxiv.org/abs/2408.02840v1)<br>:star:[code](https://github.com/manupillai308/GAReT)
 * Avatars(虚拟人)
   * [CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images](http://arxiv.org/abs/2407.04345v1)<br>:star:[code](https://github.com/jsshin98/CanonicalFusion)
   * [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](http://arxiv.org/abs/2407.06938v1)<br>:star:[code](https://rodinhd.github.io/)
@@ -198,6 +194,7 @@ ASDF
 * 时序动作定位
   * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
   * [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](http://arxiv.org/abs/2407.07673v1)
+  * [Online Temporal Action Localization with Memory-Augmented Transformer](http://arxiv.org/abs/2408.02957v1)<br>:house:[project](https://cvlab.postech.ac.kr/research/MATR/)
 * 动作质量评估
   * [Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment](http://arxiv.org/abs/2407.19675v1)
   * [RICA^2: Rubric-Informed, Calibrated Assessment of Actions](https://arxiv.org/abs/2408.02138)
@@ -241,6 +238,7 @@ ASDF
 * [SEED: A Simple and Effective 3D DETR in Point Clouds](http://arxiv.org/abs/2407.10749v1)<br>:star:[code](https://github.com/happinesslz/SEED)
 * [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911)<br>:star:[code](https://github.com/OpenRobotLab/PointLLM)<br>:house:[project](https://runsenxu.com/projects/PointLLM/)
 * [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://export.arxiv.org/abs/2407.01851)
+* [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](http://arxiv.org/abs/2408.02966v1)
 * 点云完成
   * [Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](http://arxiv.org/abs/2407.02887v1)<br>:star:[code](https://github.com/WHU-USI3DV/EGIInet)
   * [T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy](http://arxiv.org/abs/2407.05008v1)<br>:star:[code](https://github.com/df-boy/T-CorresNet)
@@ -374,6 +372,7 @@ ASDF
 * [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](http://arxiv.org/abs/2407.14412v1)
 * [FlexAttention for Efficient High-Resolution Vision-Language Models](http://arxiv.org/abs/2407.20228v1)
 * [REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models](https://arxiv.org/abs/2408.02231)<br>:house:[project](https://agneetchatterjee.com/revision/)
+* [GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths](http://arxiv.org/abs/2408.02788v1)
 * [Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229v1)<br>:star:[code](https://ywyue.github.io/FiT3D)
 * [Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models](http://arxiv.org/abs/2407.11717v1)
 * [ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference](http://arxiv.org/abs/2407.12442v1)<br>:star:[code](https://github.com/mc-)
@@ -448,10 +447,12 @@ ASDF
 * 视频解析
   * [CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing](https://arxiv.org/pdf/2405.10690)<br>:star:[code](https://github.com/faeghehsardari/coleaf)
 
+
 ## Medical Image Progress(医学影响处理)
 * [Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling](http://arxiv.org/abs/2407.08256v1)
 * [Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model](http://arxiv.org/abs/2407.14434v1)
 * [Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging](http://arxiv.org/abs/2407.21381v1)
+* [Multistain Pretraining for Slide Representation Learning in Pathology](http://arxiv.org/abs/2408.02859v1)<br>:star:[code](https://github.com/mahmoodlab/MADELEINE)
 * 切片图像分类
   * [DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2407.03575v1)<br>:star:[code](https://github.com/ChongQingNoSubway/DGR-MIL)
   * [Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2407.10814v1)
@@ -462,6 +463,7 @@ ASDF
   * [HERGen: Elevating Radiology Report Generation with Longitudinal Data](http://arxiv.org/abs/2407.15158v1)
 
 ## GAN/Image Synthesis(图像生成)
+* [Diffusion Models as Data Mining Tools](http://arxiv.org/abs/2408.02752v1)<br>:star:[code](https://diff-mining.github.io/)
 * [ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation](https://arxiv.org/abs/2408.02226)<br>:house:[project](https://procreate-diffusion.github.io/)
 * 扩散
   * [Measuring Style Similarity in Diffusion Models](https://arxiv.org/abs/2404.01292)<br>:star:[code](https://github.com/learn2phoenix/CSD)
@@ -571,8 +573,6 @@ ASDF
 * [Controllable Contextualized Image Captioning: Directing the Visual Narrative through User-Defined Highlights](http://arxiv.org/abs/2407.11449v1)<br>:star:[code](https://github.com/ShunqiM/Ctrl-CIC)
 * [BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues](http://arxiv.org/abs/2407.20341v1)<br>:star:[code](https://github.com/aimagelab/bridge-score)
 
-
-
 ## Image/video Compression(图像/视频压缩)
 * [Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation](http://arxiv.org/abs/2407.09853v1)<br>:star:[code](https://github.com/qingshi9974/ECCV2024-AdpatICMH)
 * [Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](http://arxiv.org/abs/2407.10632v1)
@@ -583,6 +583,7 @@ ASDF
 
 ## Image Retrieval(图像检索)
 * [RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos](https://arxiv.org/pdf/2312.06729)<br>:star:[code](https://github.com/Tanveer81/RGNet)<br>:house:[project](https://sites.google.com/view/rgnet/home)
+* [AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval](http://arxiv.org/abs/2408.03282v1)<br>:star:[code](https://github.com/pavelsuma/ames)
 * 基于草图的图像检索
   * [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](http://arxiv.org/abs/2407.01810v1)
   * [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](http://arxiv.org/abs/2407.04207v1)<br>:star:[code](https://github.com/mainaksingha01/SpLIP)
@@ -817,6 +818,7 @@ ASDF
 * [Task-adaptive Q-Face](https://arxiv.org/abs/2405.09059)
 * [A Light Stage on Every Desk](https://arxiv.org/abs/2105.08051)<br>:house:[project](https://grail.cs.washington.edu/projects/Light_Stage_on_Every_Desk/)
 * [Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)<br>:star:[code](https://github.com/FaceAdapter/Face-Adapter)<br>:house:[project](https://faceadapter.github.io/face-adapter.github.io/)
+* [ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](http://arxiv.org/abs/2408.03284v1)<br>:star:[code](https://guanjz20.github.io/projects/ReSyncer)
 * 人脸模糊
   * [Forbes: Face Obfuscation Rendering via Backpropagation Refinement Scheme](http://arxiv.org/abs/2407.14170v1)<br>:star:[code](https://github.com/mcljtkim/Forbes)
 * 人脸识别
