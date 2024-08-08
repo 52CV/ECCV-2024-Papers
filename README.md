@@ -20,14 +20,10 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 8月7日更新8篇，共计 642+8 篇。
-* [ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](http://arxiv.org/abs/2408.03284v1)<br>:star:[code](https://guanjz20.github.io/projects/ReSyncer)
-* [AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval](http://arxiv.org/abs/2408.03282v1)<br>:star:[code](https://github.com/pavelsuma/ames)
-* [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](http://arxiv.org/abs/2408.02966v1)
-* [Online Temporal Action Localization with Memory-Augmented Transformer](http://arxiv.org/abs/2408.02957v1)<br>:house:[project](https://cvlab.postech.ac.kr/research/MATR/)
-* [GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers](http://arxiv.org/abs/2408.02840v1)<br>:star:[code](https://github.com/manupillai308/GAReT)
-* [GazeXplain: Learning to Predict Natural Language Explanations of Visual Scanpaths](http://arxiv.org/abs/2408.02788v1)
-* [Diffusion Models as Data Mining Tools](http://arxiv.org/abs/2408.02752v1)<br>:star:[code](https://diff-mining.github.io/)
-* [Multistain Pretraining for Slide Representation Learning in Pathology](http://arxiv.org/abs/2408.02859v1)<br>:star:[code](https://github.com/mahmoodlab/MADELEINE)
+* [Fast Sprite Decomposition from Animated Graphics](https://arxiv.org/abs/2408.03923)<br>:house:[project](https://cyberagentailab.github.io/sprite-decompose/)
+* [Teach CLIP to Develop a Number Sense for Ordinal Regression](https://arxiv.org/abs/2408.03574)
+* [3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting](https://arxiv.org/abs/2408.03753)
+
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -853,6 +849,7 @@ ASDF
   * [Temporally Consistent Stereo Matching](http://arxiv.org/abs/2407.11950v1)
 * 3DGS
   * [GaussReg: Fast 3D Registration with Gaussian Splatting](http://arxiv.org/abs/2407.05254v1)
+  * [3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting](https://arxiv.org/abs/2408.03753)
   * [Compact3D: Smaller and Faster Gaussian Splatting with Vector Quantization](https://arxiv.org/abs/2311.18159)<br>:star:[code](https://github.com/UCDvision/compact3d)<br>:house:[project](https://ucdvision.github.io/compact3d/)
   * [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2405.12218)<br>:star:[code](https://github.com/TQTQliu/MVSGaussian)<br>:house:[project](https://mvsgaussian.github.io/)
   * [MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition](http://arxiv.org/abs/2407.07284v1)<br>:star:[code](https://aggelinacha.github.io/MIGS/)
@@ -881,6 +878,8 @@ ASDF
 * [Nonverbal Interaction Detection](http://arxiv.org/abs/2407.08133v1)<br>:star:[code](https://github.com/weijianan1/NVI)
 * [Situated Instruction Following](https://arxiv.org/abs/2407.12061)<br>:house:[project](https://soyeonm.github.io/SIF_webpage/)
 * [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)<br>:star:[code](https://github.com/colmap/glomap)
+* [Fast Sprite Decomposition from Animated Graphics](https://arxiv.org/abs/2408.03923)<br>:house:[project](https://cyberagentailab.github.io/sprite-decompose/)
+* [Teach CLIP to Develop a Number Sense for Ordinal Regression](https://arxiv.org/abs/2408.03574)
 * [GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation](http://arxiv.org/abs/2407.13537v1)<br>:star:[code](https://github.com/wu-cvgl/GlobalPointer)
 * [ColorMAE: Exploring data-independent masking strategies in Masked AutoEncoders](http://arxiv.org/abs/2407.13036v1)
 * [Scalar Function Topology Divergence: Comparing Topology of 3D Objects](http://arxiv.org/abs/2407.08364v1)
