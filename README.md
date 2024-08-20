@@ -19,8 +19,13 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-8月16日更新 1 篇，共计 670+1 篇。
-* [Snuffy: Efficient Whole Slide Image Classifier](https://arxiv.org/abs/2408.08258)
+8月20日更新 5 篇，共计 671+5 篇。
+* [Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment](http://arxiv.org/abs/2408.09919v1)
+* [Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering](http://arxiv.org/abs/2408.09702v1)<br>:house:[project](https://research.nvidia.com/labs/toronto-ai/DiPIR/)
+* [S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](http://arxiv.org/abs/2408.09347v1)
+* [ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation](http://arxiv.org/abs/2408.09042v1)
+* [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](https://arxiv.org/abs/2408.10195)
+
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
 
@@ -59,6 +64,7 @@ ASDF
 * [MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References](http://arxiv.org/abs/2407.13745v1)<br>:star:[code](https://boelukas.github.io/mariner/)
 * [Learning Unsigned Distance Functions from Multi-view Images with Volume Rendering Priors](http://arxiv.org/abs/2407.16396v1)<br>:star:[code](https://wen-yuan-zhang.github.io/VolumeRenderingPriors/)
 * [UniVoxel: Fast Inverse Rendering by Unified Voxelization of Scene Representation](http://arxiv.org/abs/2407.19542v1)<br>:star:[code](https://github.com/freemantom/UniVoxel)
+* [Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering](http://arxiv.org/abs/2408.09702v1)<br>:house:[project](https://research.nvidia.com/labs/toronto-ai/DiPIR/)
 
 ## Neural Radiance Fields
 * [Invertible Neural Warp for NeRF](http://arxiv.org/abs/2407.12354v1)<br>:star:[code](https://sfchng.github.io/ineurowarping-github.io/)
@@ -75,6 +81,7 @@ ASDF
 * [TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation](https://arxiv.org/abs/2401.06191)<br>:house:[project](https://rajaeekh.github.io/trinerflet-web)
 * [RS-NeRF: Neural Radiance Fields from Rolling Shutter Images](http://arxiv.org/abs/2407.10267v1)<br>:star:[code](https://github.com/MyNiuuu/RS-NeRF)
 * [Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling](http://arxiv.org/abs/2407.11962v1)<br>:star:[code](https://github.com/stevejaehyeok/MoCo-NeRF)<br>:house:[project](https://stevejaehyeok.github.io/publications/moco-nerf)
+* [S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](http://arxiv.org/abs/2408.09347v1)
 * 新视图合成
   * [Fast View Synthesis of Casual Videos](https://arxiv.org/abs/2312.02135)<br>:house:[project](https://casual-fvs.github.io/)
   * [PolyOculus: Simultaneous Multi-view Image-based Novel View Synthesis](https://arxiv.org/abs/2402.17986)
@@ -130,6 +137,8 @@ ASDF
   * [An Economic Framework for 6-DoF Grasp Detection](http://arxiv.org/abs/2407.08366v1)<br>:star:[code](https://github.com/iSEE-Laboratory/EconomicGrasp)
   * [Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance](http://arxiv.org/abs/2407.13842v1)<br>:star:[code](https://airvlab.github.io/grasp-anything)
   * [6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model](http://arxiv.org/abs/2407.15484v1)<br>:star:[code](https://mbortolon97.github.io/6dgs/)
+* 相机姿态估计
+  * [ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation](http://arxiv.org/abs/2408.09042v1)
 
 ## Human–Computer Interaction(人机交互)
 * [Look Hear: Gaze Prediction for Speech-directed Human Attention](http://arxiv.org/abs/2407.19605v1)
@@ -189,6 +198,8 @@ ASDF
   * [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization]()
   * [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](http://arxiv.org/abs/2407.07673v1)
   * [Online Temporal Action Localization with Memory-Augmented Transformer](http://arxiv.org/abs/2408.02957v1)<br>:house:[project](https://cvlab.postech.ac.kr/research/MATR/)
+* 时序动作分割
+  * [Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment](http://arxiv.org/abs/2408.09919v1)
 * 动作质量评估
   * [Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment](http://arxiv.org/abs/2407.19675v1)
   * [RICA^2: Rubric-Informed, Calibrated Assessment of Actions](https://arxiv.org/abs/2408.02138)
@@ -802,6 +813,7 @@ ASDF
 * [COSMU: Complete 3D human shape from monocular unconstrained images](http://arxiv.org/abs/2407.10586v1)
 * [Modeling and Driving Human Body Soundfields through Acoustic Primitives](http://arxiv.org/abs/2407.13083v1)<br>:star:[code](https://wikichao.github.io/Acoustic-Primitives/)
 * [Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions](http://arxiv.org/abs/2407.15451v1)<br>:star:[code](https://github.com/ayh015-dev/DA-LLPose)
+* [SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views](https://arxiv.org/abs/2408.10195)
 * 3D人体姿态估计
   * [RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark](http://arxiv.org/abs/2407.13930v1)<br>:house:[project](https://huggingface.co/datasets/uwipl/RT-Pose)
 * 人体网格恢复
