@@ -19,11 +19,10 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-8月21日更新 4 篇，共计 676+4 篇。
-* [Just a Hint: Point-Supervised Camouflaged Object Detection](https://arxiv.org/abs/2408.10777)
-* [SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection](https://arxiv.org/abs/2408.10760)
-* [Generalizable Facial Expression Recognition](https://arxiv.org/abs/2408.10614)
-* [CLIP-DPO: Vision-Language Models as a Source of Preference for Fixing Hallucinations in LVLMs](https://arxiv.org/abs/2408.10433)
+8月23日更新 3 篇，共计 680+3 篇。
+* [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
+* [UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380)
+* [Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy](https://arxiv.org/abs/2408.12086)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -252,6 +251,7 @@ ASDF
   * [ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency](http://arxiv.org/abs/2407.09862v1)<br>:star:[code](https://github.com/Laka-3DV/ML-SemReg)
   * [PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training](http://arxiv.org/abs/2407.14054v1)<br>:star:[code](https://github.com/Chen-Suyi/PointRegGPT)
   * [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](http://arxiv.org/abs/2407.20223v1)<br>:house:[project](https://sites.google.com/view/eccv24-equivalign)
+  * [UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380)
 * 点云分割
   * [Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation](http://arxiv.org/abs/2407.12489v1)
   * [HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation](http://arxiv.org/abs/2407.12387v1)<br>:star:[code](https://github.com/tpzou/HGL)
@@ -377,6 +377,7 @@ ASDF
   * [Efficient and Versatile Robust Fine-Tuning of Zero-shot Models](https://arxiv.org/abs/2408.05749)
 
 ## Vision-Language(视觉语言)
+* [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
 * [DEAL: Disentangle and Localize Concept-level Explanations for VLMs](http://arxiv.org/abs/2407.14412v1)
 * [FlexAttention for Efficient High-Resolution Vision-Language Models](http://arxiv.org/abs/2407.20228v1)
 * [REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models](https://arxiv.org/abs/2408.02231)<br>:house:[project](https://agneetchatterjee.com/revision/)
@@ -928,6 +929,7 @@ ASDF
 * [Robust Multimodal Learning via Representation Decoupling](http://arxiv.org/abs/2407.04458v1)
 * [A High-quality Robust Diffusion Framework for Corrupted Dataset]
 * [ReGround: Improving Textual and Spatial Grounding at No Cost](https://arxiv.org/abs/2403.13589)<br>:house:[project](https://re-ground.github.io/)
+* [Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy](https://arxiv.org/abs/2408.12086)
 * [Sequential Representation Learning via Static-Dynamic Conditional Disentanglement](https://arxiv.org/abs/2408.05599)
 * [QuasiSim: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer](https://arxiv.org/abs/2404.07988)<br>:star:[code](https://github.com/Meowuu7/QuasiSim)<br>:house:[project](https://meowuu7.github.io/QuasiSim/)
 * [Dataset Distillation by Automatic Training Trajectories](http://arxiv.org/abs/2407.14245v1)
