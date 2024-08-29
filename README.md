@@ -19,10 +19,27 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-8月23日更新 3 篇，共计 680+3 篇。
-* [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
-* [UMERegRobust -- Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380)
-* [Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and VisualAnalysis Strategy](https://arxiv.org/abs/2408.12086)
+8月29日更新 20 篇，共计 683+20 篇。
+* [DEAR: Depth-Enhanced Action Recognition](https://arxiv.org/abs/2408.15679)
+* [Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas](https://arxiv.org/abs/2408.15660)
+* [Ray-Distance Volume Rendering for Neural Scene Reconstruction](https://arxiv.org/abs/2408.15524)
+* [CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring](https://arxiv.org/abs/2408.14930)
+* [Towards Real-world Event-guided Low-light Video Enhancement and Deblurring](https://arxiv.org/abs/2408.14916)
+* [DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose](https://arxiv.org/abs/2408.14860)
+* [Platypus: A Generalized Specialist Model for Reading Text in Various Forms](https://arxiv.org/abs/2408.14805)
+* [RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images](https://arxiv.org/abs/2408.14802)<br>:star:[code](https://github.com/cuiziteng/ECCV_RAW_Adapter)
+* [Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org/abs/2408.14738)
+* [SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery](https://arxiv.org/abs/2408.14371)
+* [Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes](https://arxiv.org/abs/2408.14279)
+* [Affine steerers for structured keypoint description](https://arxiv.org/abs/2408.14186)
+* [COMPOSE: Comprehensive Portrait Shadow Editing](https://arxiv.org/abs/2408.13922)
+* [Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation](https://arxiv.org/abs/2408.13838)
+* [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752)
+* [Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model](https://arxiv.org/abs/2408.13459)
+* [SeA: Semantic Adversarial Augmentation for Last Layer Features from Unsupervised Representation Learning](https://arxiv.org/abs/2408.13351)
+* [Online Zero-Shot Classification with CLIP](https://arxiv.org/abs/2408.13320)
+* [Image-Feature Weak-to-Strong Consistency: An Enhanced Paradigm for Semi-Supervised Learning](https://arxiv.org/abs/2408.12614)
+* [GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections](https://arxiv.org/abs/2408.12352)
 
 <br>:star:[code]()<br>:house:[project]()<br>:thumbsup:
 ASDF
@@ -205,6 +222,7 @@ ASDF
   * [Semantically Guided Representation Learning For Action Anticipation](http://arxiv.org/abs/2407.02309v1)
 * 动作识别
   * [Referring Atomic Video Action Recognition](https://export.arxiv.org/abs/2407.01872)<br>:star:[code](https://github.com/KPeng9510/RAVAR)
+  * [DEAR: Depth-Enhanced Action Recognition](https://arxiv.org/abs/2408.15679)
   * [C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2407.06113v1)<br>:star:[code](https://github.com/RongchangLi/ZSCAR_C2C)
   * [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](http://arxiv.org/abs/2407.06628v1)
   * [Classification Matters: Improving Video Action Detection with Class-Specific Attention](http://arxiv.org/abs/2407.19698v1)
@@ -242,6 +260,7 @@ ASDF
 * [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911)<br>:star:[code](https://github.com/OpenRobotLab/PointLLM)<br>:house:[project](https://runsenxu.com/projects/PointLLM/)
 * [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://export.arxiv.org/abs/2407.01851)
 * [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](http://arxiv.org/abs/2408.02966v1)
+* [Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes](https://arxiv.org/abs/2408.14279)
 * 点云完成
   * [Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](http://arxiv.org/abs/2407.02887v1)<br>:star:[code](https://github.com/WHU-USI3DV/EGIInet)
   * [T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy](http://arxiv.org/abs/2407.05008v1)<br>:star:[code](https://github.com/df-boy/T-CorresNet)
@@ -256,6 +275,7 @@ ASDF
   * [Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation](http://arxiv.org/abs/2407.12489v1)
   * [HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation](http://arxiv.org/abs/2407.12387v1)<br>:star:[code](https://github.com/tpzou/HGL)
   * [SegPoint: Segment Any Point Cloud via Large Language Model](http://arxiv.org/abs/2407.13761v1)<br>:star:[code](https://heshuting555.github.io/SegPoint)
+  * [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752)
 * 3D点云
   * [Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds](http://arxiv.org/abs/2407.13342v1)<br>:star:[code](https://list17.github.io/ImplicitFilter)
   * [CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation](http://arxiv.org/abs/2407.16193v1)<br>:star:[code](https://github.com/shimazing/CloudFixer)
@@ -292,7 +312,8 @@ ASDF
   * [Efficient Unsupervised Visual Representation Learning with Explicit Cluster Balancing](http://arxiv.org/abs/2407.11168v1)
   * [OmniSat: Self-Supervised Modality Fusion for Earth Observation](https://arxiv.org/pdf/2404.08351)<br>:star:[code](https://github.com/gastruc/OmniSat)<br>:house:[project](https://gastruc.github.io/projects/omnisat.html)<br>:sunflower:[dataset](https://huggingface.co/datasets/IGNF/PASTIS-HD)
   * [POA: Pre-training Once for Models of All Sizes](http://arxiv.org/abs/2408.01031v1)<br>:star:[code](https://github.com/Qichuzyy/POA)
-  
+* 半监督
+  * [Image-Feature Weak-to-Strong Consistency: An Enhanced Paradigm for Semi-Supervised Learning](https://arxiv.org/abs/2408.12614)  
 
 ## Novel Class Discovery(新类发现)
 * [Self-Cooperation Knowledge Distillation for Novel Class Discovery](http://arxiv.org/abs/2407.01930v1)
@@ -486,7 +507,7 @@ ASDF
   * [Surf-D: Generating High-Quality Surfaces of Arbitrary Topologies Using Diffusion Models](https://arxiv.org/abs/2311.17050)<br>:star:[code](https://github.com/Yzmblog/SurfD)<br>:house:[project](https://yzmblog.github.io/projects/SurfD/)
   * [ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement](http://arxiv.org/abs/2407.07197v1)<br>:star:[code](https://moatifbutt.github.io/colorpeel/)<br>:house:[project](https://moatifbutt.github.io/colorpeel/)
   * [Timestep-Aware Correction for Quantized Diffusion Models](http://arxiv.org/abs/2407.03917v1)
-  * [SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher]<br>:house:[project](https://swiftbrushv2.github.io/)<br>:tv:[video](https://www.youtube.com/watch?v=xdYWMNJ6_Uo)
+  * [SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher](https://arxiv.org/abs/2408.14176)<br>:house:[project](https://swiftbrushv2.github.io/)<br>:tv:[video](https://www.youtube.com/watch?v=xdYWMNJ6_Uo)
   * [Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model]()
   * [Compensation Sampling for Improved Convergence in Diffusion Models](https://arxiv.org/abs/2312.06285)<br>:star:[code](https://github.com/hotfinda/Compensation-sampling)
   * [ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction](http://arxiv.org/abs/2407.07077v1)<br>:star:[code](https://haoosz.github.io/ConceptExpress/)<br>:star:[code](https://github.com/haoosz/ConceptExpress)
@@ -522,6 +543,7 @@ ASDF
   * [Video Editing via Factorized Diffusion Distillation](https://arxiv.org/abs/2403.09334)
 * 图像编辑
   * [ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion](https://export.arxiv.org/abs/2404.17230)
+  * [COMPOSE: Comprehensive Portrait Shadow Editing](https://arxiv.org/abs/2408.13922)
   * [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2407.18247v1)<br>:star:[code](https://visual-ai.github.io/regiondrag)
   * [3DEgo: 3D Editing on the Go!](http://arxiv.org/abs/2407.10102v1)<br>:star:[code](https://3dego.github.io/)
   * [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947)<br>:house:[project](https://ashmrz.github.io/WatchYourSteps/)
@@ -582,6 +604,8 @@ ASDF
   * [SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer](https://arxiv.org/abs/2404.03736)<br>:star:[code](https://github.com/JarrentWu1031/SC4D)<br>:house:[project](https://sc4d.github.io/)
 * 网页设计
   * [WebRPG: Automatic Web Rendering Parameters Generation for Visual Presentation](http://arxiv.org/abs/2407.15502v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/WebRPG)
+* Text-to-Garment
+  * [GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections](https://arxiv.org/abs/2408.12352)
 
 ## Image Captioning(图像/视频字幕)
 * [Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](http://arxiv.org/abs/2407.11683v1)<br>:star:[code](https://github.com/tuyunbin/DIRL)
@@ -635,6 +659,7 @@ ASDF
   * [Open Panoramic Segmentation](http://arxiv.org/abs/2407.02685v1)<br>:star:[code](https://junweizheng93.github.io/publications/OPS/OPS.html)
 * 语义分割
   * [Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2407.02286v1)
+  * [Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation](https://arxiv.org/abs/2408.13838)
   * [MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment](http://arxiv.org/abs/2407.21654v1)
   * [Sparse Refinement for Efficient High-Resolution Semantic Segmentation](http://arxiv.org/abs/2407.19014v1)<br>:house:[project](https://sparserefine.mit.edu)
   * [Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation](http://arxiv.org/abs/2407.17261v1)<br>:star:[code](https://github.com/hyunwoo137/EDAFormer)
@@ -696,6 +721,8 @@ ASDF
 * [An accurate detection is not all you need to combat label noise in web-noisy datasets](http://arxiv.org/abs/2407.05528v1)
 * [Dual-stage Hyperspectral Image Classification Model with Spectral Supertoken](http://arxiv.org/abs/2407.07307v1)<br>:star:[code](https://github.com/laprf/DSTC)
 * [DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks](http://arxiv.org/abs/2407.14509v1)
+* 零样本分类
+  * [Online Zero-Shot Classification with CLIP](https://arxiv.org/abs/2408.13320)
 * 长尾识别
   * [LTRL: Boosting Long-tail Recognition via Reflective Learning](http://arxiv.org/abs/2407.12568v1)
 * 细粒度
@@ -729,6 +756,9 @@ ASDF
   * [Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models](http://arxiv.org/abs/2407.10285v1)<br>:star:[code](https://yangqy1110.github.io/NC-SDEdit/)<br>:star:[code](https://github.com/yangqy1110/NC-SDEdit/)
 * 视频去模糊
   * [Domain-adaptive Video Deblurring via Test-time Blurring](http://arxiv.org/abs/2407.09059v1)<br>:star:[code](https://github.com/Jin-Ting-He/DADeblur)
+  * [CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring](https://arxiv.org/abs/2408.14930)
+  * [Towards Real-world Event-guided Low-light Video Enhancement and Deblurring](https://arxiv.org/abs/2408.14916)
+  * [Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model](https://arxiv.org/abs/2408.13459)
 * 视频去闪烁
   * [BlazeBVD: Make Scale-Time Equalization Great Again for Blind Video Deflickering](https://arxiv.org/pdf/2403.06243v1)<br>:thumbsup:[盲视频去闪烁通用方法BlazeBVD来了，美图&国科大联合提出](https://mp.weixin.qq.com/s/8i_n-2DTU9UgvKtKG-v-6w)
 
@@ -868,6 +898,7 @@ ASDF
 
 ## 3D Visual
 * [GroundUp: Rapid Sketch-Based 3D City Massing](http://arxiv.org/abs/2407.12739v1)<br>:house:[project](http://visual.cs.ucl.ac.uk/pubs/groundup/index.html)
+* [Ray-Distance Volume Rendering for Neural Scene Reconstruction](https://arxiv.org/abs/2408.15524)
 * [Decomposition of Neural Discrete Representations for Large-Scale 3D Mapping](http://arxiv.org/abs/2407.15554v1)<br>:star:[code](https://github.com/minseong-p/dnmap)
 * [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672)<br>:house:[project](https://ianhuang0630.github.io/BlenderAlchemyWeb/)
 * [Temporal Event Stereo via Joint Learning with Stereoscopic Flow](http://arxiv.org/abs/2407.10831v1)<br>:star:[code](https://github.com/mickeykang16/TemporalEventStereo)
@@ -894,6 +925,7 @@ ASDF
   * [Surface Reconstruction from Gaussian Splatting via Novel Stereo Views](https://arxiv.org/abs/2404.01810)<br>:house:[project](https://gs2mesh.github.io/)
   * [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](http://arxiv.org/abs/2407.12667v1)<br>:star:[code](https://github.com/Iris-cyy/SG-NeRF)
   * [Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image](https://arxiv.org/abs/2408.02079)
+  * [DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose](https://arxiv.org/abs/2408.14860)
 * 三维重建
   * [GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction](http://arxiv.org/abs/2407.04237v1)<br>:house:[project](https://yxmu.foo/GSD/)
   * [InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction](http://arxiv.org/abs/2407.12661v1)<br>:star:[code](https://github.com/Muliphein/InfoNorm)
@@ -1015,6 +1047,13 @@ ASDF
 * [Deep Companion Learning: Enhancing Generalization Through Historical Consistency](http://arxiv.org/abs/2407.18821v1)
 * [Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations](http://arxiv.org/abs/2407.18500v1)<br>:star:[code](https://vlislab22.github.io/EvINR/)
 * [Neural Surface Detection for Unsigned Distance Fields](http://arxiv.org/abs/2407.18381v1)
+* [Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas](https://arxiv.org/abs/2408.15660)
+* [Platypus: A Generalized Specialist Model for Reading Text in Various Forms](https://arxiv.org/abs/2408.14805)
+* [RAW-Adapter: Adapting Pre-trained Visual Model to Camera RAW Images](https://arxiv.org/abs/2408.14802)<br>:star:[code](https://github.com/cuiziteng/ECCV_RAW_Adapter)
+* [Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation](https://arxiv.org/abs/2408.14738)
+* [SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery](https://arxiv.org/abs/2408.14371)
+* [Affine steerers for structured keypoint description](https://arxiv.org/abs/2408.14186)
+* [SeA: Semantic Adversarial Augmentation for Last Layer Features from Unsupervised Representation Learning](https://arxiv.org/abs/2408.13351)
 
 <a name="0"/>
 
