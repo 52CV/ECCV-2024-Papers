@@ -25,7 +25,8 @@
 
 * [Prompting Future Driven Diffusion Model for Hand Motion Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf)手部运动预测
 
-* [VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding](https://arxiv.org/abs/2407.12594)<br>:🤗:[huggingface](https://huggingface.co/papers/2407.12594)
+* [VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding](https://arxiv.org/abs/2407.12594)<br>🤗[huggingface](https://huggingface.co/papers/2407.12594)密集文档理解
+* [Elegantly Written: Disentangling Writer and Character Styles for Enhancing Online Chinese Handwriting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01329.pdf)
 
 * [Bridging the Gap Between Human Motion and Action Semantics via Kinematics Phrases](https://arxiv.org/abs/2310.04189)<br>:house:[project](https://foruck.github.io/KP/)人体运动
 
@@ -38,12 +39,17 @@
 
 * [OneTrack: Demystifying the Conflict Between Detection and Tracking in End-to-End 3D Trackers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01174.pdf)
 
+* [SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis](https://arxiv.org/abs/2311.03355)<br>:house:[project](https://seggenerator.github.io/)
 
 * [LoA-Trans: Enhancing Visual Grounding by Location-Aware Transformers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01177.pdf)
 * [ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities](https://arxiv.org/abs/2407.01525)<br>:star:[code](https://github.com/ZCMax/ScanReason)
 * [SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs](https://arxiv.org/abs/2404.00469)
 
 * [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?](https://arxiv.org/abs/2403.14624)<br>:star:[code](https://github.com/ZrrSkywalker/MathVerse)
+* [UniCode: Learning a Unified Codebook for Multimodal Large Language Models](https://arxiv.org/abs/2403.09072)
+* [When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)<br>:star:[code](https://github.com/bfshi/scaling_on_scales)
+
+* [Learning Chain of Counterfactual Thought for Bias-Robust Vision-Language Reasoning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01309.pdf)<br>:star:[code](https://github.com/SuperJohnZhang/CoBRa)
 
 * [See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/abs/2311.15209)<br>:house:[project](https://rese1f.github.io/STEVE/)
 
@@ -52,7 +58,14 @@
 * [Stepwise Multi-grained Boundary Detector for Point-supervised Temporal Action Localization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01159.pdf)
 * [Spatio-Temporal Proximity-Aware Dual-Path Model for Panoramic Activity Recognition](https://arxiv.org/abs/2403.14113)
 
+* [ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild](https://arxiv.org/abs/2409.15269)<br>:house:[project](https://moygcc.github.io/ReLoo/)
+
+* [UniINR: Event-guided Unified Rolling Shutter Correction, Deblurring, and Interpolation](https://arxiv.org/abs/2305.15078)<br>:star:[code](https://github.com/yunfanLu/UniINR)
+
+* [GVGEN: Text-to-3D Generation with Volumetric Representation](https://arxiv.org/abs/2403.12957)<br>:star:[code](https://github.com/SOTAMak1r/GVGEN)
 * [DiffiT: Diffusion Vision Transformers for Image Generation](https://arxiv.org/abs/2312.02139)<br>:star:[code](https://github.com/NVlabs/DiffiT)
+* [MultiGen: Zero-shot Image Generation from Multi-modal Prompts](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01296.pdf)
+* [Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm](https://arxiv.org/abs/2403.11781)<br>:house:[project](https://infinite-id.github.io/)身份保留的个性化
 
 * [GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding](https://arxiv.org/abs/2407.13519)<br>:star:[code](https://github.com/changshuowang/GPSFormer)
 
@@ -273,7 +286,7 @@ ASDF
   * [C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2407.06113v1)<br>:star:[code](https://github.com/RongchangLi/ZSCAR_C2C)
   * [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](http://arxiv.org/abs/2407.06628v1)
   * [Classification Matters: Improving Video Action Detection with Class-Specific Attention](http://arxiv.org/abs/2407.19698v1)
-  * [FinePseudo: Improving Pseudo-Labelling through Temporal-Alignablity for Semi-Supervised Fine-Grained Action Recognition](http://arxiv.org/abs/2409.01448v1)<br>:star:[code](https://daveishan.github.io/finepsuedo-webpage/)
+  * [FinePseudo: Improving Pseudo-Labelling through Temporal-Alignablity for Semi-Supervised Fine-Grained Action Recognition](http://arxiv.org/abs/2409.01448v1)<br>:house:[project](https://daveishan.github.io/finepsuedo-webpage/)
   * [On the Utility of 3D Hand Poses for Action Recognition](https://arxiv.org/abs/2403.09805)<br>:house:[project](https://s-shamil.github.io/HandFormer/)
   * [Occluded Gait Recognition with Mixture of Experts: An Action Detection Perspective](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01016.pdf)<br>:star:[code](https://github.com/BNU-IVC/OccGait)
 
@@ -543,7 +556,7 @@ ASDF
   * [Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention](https://arxiv.org/pdf/2311.10988)<br>:star:[code](https://github.com/gpt4vision/OvSGTR)<br>:thumbsup:[突破场景图生成的边界：OvSGTR 实现全开放词汇场景图生成](https://mp.weixin.qq.com/s/a6F24PtIzcuSXCrhdsS8tw)
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
-* [Masked Angle-Aware Autoencoder for Remote Sensing Images](https://arxiv.org/abs/2408.01946)
+* [Masked Angle-Aware Autoencoder for Remote Sensing Images](https://arxiv.org/abs/2408.01946)<br>:star:[code](https://github.com/benesakitam/MA3E)
 * [Radiance Field Learners As UAV First-Person Viewers](https://arxiv.org/abs/2408.05533)
 
 ## Automated Driving(自动驾驶)
@@ -1186,7 +1199,7 @@ ASDF
 * [Unsupervised Exposure Correction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00986.pdf)<br>:star:[code](https://github.com/BeyondHeaven/uec_code)
 * [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)<br>:star:[code](https://github.com/colmap/glomap)
 * [Fast Sprite Decomposition from Animated Graphics](https://arxiv.org/abs/2408.03923)<br>:house:[project](https://cyberagentailab.github.io/sprite-decompose/)
-* [Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets](http://arxiv.org/abs/2409.01445v1)<br>:star:[code](https://daveishan.github.io/avr-webpage/)
+* [Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets](http://arxiv.org/abs/2409.01445v1)<br>:house:[project](https://daveishan.github.io/avr-webpage/)
 * [MERLiN: Single-Shot Material Estimation and Relighting for Photometric Stereo](http://arxiv.org/abs/2409.00674v1)
 * [Enhancing Vectorized Map Perception with Historical Rasterized Maps](http://arxiv.org/abs/2409.00620v1)<br>:star:[code](https://github.com/HXMap/HRMapNet)
 * [Align before Collaborate: Mitigating Feature Misalignment for Robust Multi-Agent Perception](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00560.pdf)
