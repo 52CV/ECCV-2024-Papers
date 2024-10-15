@@ -25,7 +25,7 @@
 
 * [Prompting Future Driven Diffusion Model for Hand Motion Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf)手部运动预测
 
-* [VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding](https://arxiv.org/abs/2407.12594)<br>:face:[huggingface](https://huggingface.co/papers/2407.12594)
+* [VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding](https://arxiv.org/abs/2407.12594)<br>:🤗:[huggingface](https://huggingface.co/papers/2407.12594)
 
 * [Bridging the Gap Between Human Motion and Action Semantics via Kinematics Phrases](https://arxiv.org/abs/2310.04189)<br>:house:[project](https://foruck.github.io/KP/)人体运动
 
