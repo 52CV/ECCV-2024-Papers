@@ -188,9 +188,7 @@ ASDF
   * [Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](http://arxiv.org/abs/2407.11820v1)<br>:star:[code](https://gewu-lab.github.io/stepping_stones)<br>:star:[code](https://gewu-lab.github.io/stepping_stones/)
   * [CPM: Class-conditional Prompting Machine for Audio-visual Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01634.pdf)视听分割
 
-##
-* [Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](http://arxiv.org/abs/2407.10802v1)<br>:star:[code](https://github.com/tub-rip/MotionPriorCMax)
-* [COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation](http://arxiv.org/abs/2408.16426v1)
+bs/2408.16426v1)
 
 ## Optical Flow Estimation(光流估计)
 * [SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow](https://arxiv.org/abs/2405.14793)<br>:star:[code](https://github.com/princeton-vl/SEA-RAFT)
@@ -323,6 +321,9 @@ ASDF
   * [Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation](http://arxiv.org/abs/2407.10528v1)<br>:star:[code](https://jpthu17.github.io/GuidedMotion-project/)
 * 人体运动估计
   * [MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation](https://static.siplab.org/papers/eccv2024-manikin.pdf)<br>:house:[project](https://siplab.org/projects/MANIKIN)
+* 运动估计*
+  * [Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](http://arxiv.org/abs/2407.10802v1)<br>:star:[code](https://github.com/tub-rip/MotionPriorCMax)
+  * [COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation](http://arxiv.org/a
 
 ## Person Re-Identification(人员重识别)
 * 行人重识别
@@ -409,8 +410,6 @@ ASDF
 ## Novel Class Discovery(新类发现)
 * [Self-Cooperation Knowledge Distillation for Novel Class Discovery](http://arxiv.org/abs/2407.01930v1)
 
-##
-* [DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs](https://arxiv.org/abs/2403.19588)<br>:star:[code](https://github.com/naver-ai/rdnet)
 
 ## NAS
 * [Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf)<br>:star:[code](https://github.com/lliai/Auto-GAS)
@@ -1427,6 +1426,8 @@ ASDF
 * [Affine steerers for structured keypoint description](https://arxiv.org/abs/2408.14186)
 * [SeA: Semantic Adversarial Augmentation for Last Layer Features from Unsupervised Representation Learning](http://arxiv.org/abs/2408.13351v1)<br>:star:[code](https://github.com/idstcv/SeA)
 * [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)<br>:star:[code](https://github.com/open-compass/VLMEvalKit)<br>:house:[project](https://opencompass.org.cn/mmbench)
+* [DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs](https://arxiv.org/abs/2403.19588)<br>:star:[code](https://github.com/naver-ai/rdnet)
+
 
 <a name="0"/>
 
