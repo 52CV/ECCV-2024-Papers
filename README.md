@@ -1701,7 +1701,7 @@ bs/2408.16426v1)
 * [Non-parametric Sensor Noise Modeling and Synthesis](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03438.pdf)
 * [Stripe Observation Guided Inference Cost-free Attention Mechanism](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03451.pdf)<br>:star:[code](https://github.com/zhongshsh/ASR)
 * [Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation](https://arxiv.org/abs/2310.07506)
-* [Object-Aware NIR-to-Visible Translation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03338.pdf)<br>:star:[code](https://github.com/Yiiclass/Sherry)红外
+* [Object-Aware NIR-to-Visible Translation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03338.pdf)<br>:star:[code](https://github.com/Yiiclass/Sherry)<br>:sunflower:[dataset](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9lOTc2YWNjYTdiOWZjZDFmL0VpRHlibTZ0aF9kQ21mN3YwSERNLWhZQmp1SGNPc1ZrakNhMjA2N3BnemFVeFE%5FZT1lVmlzVlg&id=E976ACCA7B9FCD1F%21s6e6ef22087ad42f799feefd070ccfa16&cid=E976ACCA7B9FCD1F)Low-level Vision
 
 
 <a name="0"/>
