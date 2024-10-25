@@ -29,72 +29,46 @@
 * [Rasterized Edge Gradients: Handling Discontinuities Differentiably](https://arxiv.org/abs/2405.02508)
 * [Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models](https://arxiv.org/abs/2404.13706)<br>:house:[project](https://cs-people.bu.edu/vpetsiuk/arc/)
 
-10月24日更新 28+31 篇，共计 1173+31 篇。
-* [SAGS: Structure-Aware 3D Gaussian Splatting](https://arxiv.org/abs/2404.19149)<br>:house:[project](https://eververas.github.io/SAGS/)
-* [Pixel-GS Density Control with Pixel-aware Gradient for 3D Gaussian Splatting](https://arxiv.org/abs/2403.15530)<br>:star:[code](https://github.com/zhengzhang01/Pixel-GS)
-* [Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2405.00571)<br>:star:[code](https://github.com/youngkyunJang/SLERP-TAT)
-* [COIN-Matting: Confounder Intervention for Image Matting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02943.pdf)
-* [L-DiffER: Single Image Reflection Removal with Language-based Diffusion Model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02988.pdf)消除单图像反射
-* [BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion](https://arxiv.org/abs/2403.06976)<br>:house:[project](https://tencentarc.github.io/BrushNet/)
-* [Blind image deblurring with noise-robust kernel estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03024.pdf)<br>:star:[code](https://github.com/csleemooo/BD_noise_robust_kernel_estimation)
-* [Beat-It: Beat-Synchronized Multi-Condition 3D Dance Generation](https://arxiv.org/abs/2407.07554)<br>:house:[project](https://zikaihuangscut.github.io/Beat-It/)
-* [Realistic Human Motion Generation with Cross-Diffusion Models](https://arxiv.org/abs/2312.10993)<br>:house:[project](https://wonderno.github.io/CrossDiff-webpage/)人体运动
-* [RePOSE: 3D Human Pose Estimation via Spatio-Temporal Depth Relational Consistency](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02925.pdf)<br>:star:[code](https://github.com/StupidAdam/RePOSE)
-* [WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02927.pdf)
-* [Learning to Obstruct Few-Shot Image Classification over Restricted Classes](https://arxiv.org/abs/2409.19210)<br>:star:[code](https://github.com/amberyzheng/LTO)
-* [SkyMask: Attack-agnostic Robust Federated Learning with Fine-grained Learnable Masks](https://arxiv.org/abs/2312.12484)<br>:star:[code](https://github.com/KoalaYan/SkyMask)
-* [Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://arxiv.org/abs/2403.10153)
-* [OccGen: Generative Multi-modal 3D Occupancy Prediction for Autonomous Driving](https://arxiv.org/abs/2404.15014)<br>:house:[project](https://occgen-ad.github.io/)
-* [CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner](https://arxiv.org/abs/2403.10082)
-* [EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding](https://arxiv.org/abs/2406.08877)<br>:star:[code](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
-* [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)集体照合成
-* [Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos](https://arxiv.org/abs/2409.20557)<br>:house:[project](https://sites.google.com/view/vidassist)
-* [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)<br>:star:[code](https://github.com/SaFoLab-WISC/AdaShield)
-* [HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning](https://arxiv.org/abs/2403.12884)<br>:star:[code](https://github.com/ControlNet/HYDRA)视觉推理
-* [Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation](https://arxiv.org/abs/2305.18381)<br>:star:[code](https://github.com/silicx/GoldFromOres-BiLP)
-* [Rethinking LiDAR Domain Generalization: Single Source as Multiple Density Domains](https://arxiv.org/abs/2312.12098)<br>:star:[code](https://github.com/dgist-cvlab/MultiDensityDG)
-* [Improving Zero-Shot Generalization for CLIP with Variational Adapter](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03044.pdf)
-* [VersatileGaussian: Real-time Neural Rendering for Versatile Tasks using Gaussian Splatting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03032.pdf)神经渲染
-* [OneRestore: A Universal Restoration Framework for Composite Degradation](https://arxiv.org/abs/2407.04621)<br>:star:[code](https://github.com/gy65896/OneRestore)
-* [RoofDiffusion: Constructing Roofs from Severely Corrupted Point Data via Diffusion](https://arxiv.org/abs/2404.09290)
-* [Binomial Self-compensation for Motion Error in Dynamic 3D Scanning](https://arxiv.org/abs/2404.06693)
-* [Rethinking Data Bias: Dataset Copyright Protection via Embedding Class-wise Hidden Bias](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03084.pdf)<br>:star:[code](https://github.com/jjh6297/UndercoverBias)保护数据集版权
-* [Towards Unified Representation of Invariant-Specific Features in Missing Modality Face Anti-Spoofing](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03248.pdf)
-* [Pose-Aware Self-Supervised Learning with Viewpoint Trajectory Regularization](https://arxiv.org/abs/2403.14973)<br>:house:[project](https://pwang.pw/trajSSL/)自监督学习
-* [EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915)<br>:star:[code](https://github.com/ymxlzgy/echoscene)
-* [CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts](https://arxiv.org/abs/2311.16445)<br>:star:[code](https://github.com/YichaoCai1/CLAP)对比学习
-* [Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)<br>:star:[code](https://github.com/OPTML-Group/Unlearn-WorstCase)
-* [Leveraging temporal contextualization for video action recognition](https://arxiv.org/abs/2404.09490)<br>:star:[code](https://github.com/naver-ai/tc-clip)
-* [ChEX: Interactive Localization and Region Description in Chest X-rays](https://arxiv.org/abs/2404.15770)<br>:star:[code](https://github.com/philip-mueller/chex)胸部 X 光片
-* [SILC: Improving Vision Language Pretraining with Self-Distillation](https://arxiv.org/abs/2310.13355)
-* [SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference](https://arxiv.org/abs/2312.01597)<br>:star:[code](https://github.com/wangf3014/SCLIP)
-* [AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale](https://arxiv.org/abs/2404.03482)<br>:star:[code](https://github.com/apardyl/AdaGlimpse)
-* [Elysium: Exploring Object-level Perception in Videos through Semantic Integration Using MLLMs](https://arxiv.org/abs/2403.16558)<br>:star:[code](https://github.com/Hon-Wong/Elysium)
-* [Safe-Sim: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries](https://arxiv.org/abs/2401.00391)<br>:house:[project](https://safe-sim.github.io/)交通
-* [Analysis-by-Synthesis Transformer for Single-View 3D Reconstruction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03170.pdf)<br>:star:[code](https://github.com/DianJJ/AST)
-* [WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians](https://arxiv.org/abs/2409.17917)<br>:house:[project](https://compvis.github.io/wast3d/)
-* [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://arxiv.org/abs/2403.14627)<br>:star:[code](https://github.com/donydchen/mvsplat)
-* [GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting](https://arxiv.org/abs/2404.19702)<br>:house:[project](https://sai-bi.github.io/project/gs-lrm/)
-* [3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03191.pdf)<br>:star:[code](https://github.com/eververas/3DGazeNet)
-* [Removing Distributional Discrepancies in Captions Improves Image-Text Alignment](https://arxiv.org/abs/2410.00905)<br>:house:[project](https://yuheng-li.github.io/LLaVA-score/)
-* [Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis](https://arxiv.org/abs/2409.17439)
-* [Implicit Concept Removal of Diffusion Models](https://arxiv.org/abs/2310.05873)<br>:house:[project](https://kaichen1998.github.io/projects/geom-erasing/)
-* [ZigMa: A DiT-style Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802)<br>:star:[code](https://github.com/CompVis/zigma)
-* [Robust-Wide: Robust Watermarking against Instruction-driven Image Editing](https://arxiv.org/abs/2402.12688)<br>:star:[code](https://github.com/hurunyi/Robust-Wide)
-* [PLOT: Text-based Person Search with Part Slot Attention for Corresponding Part Discovery](https://arxiv.org/abs/2409.13475)基于文本的人物搜索
-* [OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal](https://arxiv.org/abs/2408.11480)<br>:star:[code](https://github.com/QMoQ/OAPT)去伪影
-* [VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding](https://arxiv.org/abs/2403.11481)<br>:star:[code](https://github.com/YueFan1014/VideoAgent)<br>:house:[project](https://videoagent.github.io/)
-* [Flying with Photons: Rendering Novel Views of Propagating Light](https://arxiv.org/abs/2404.06493)<br>:star:[code](https://github.com/anaghmalik/FlyingWithPhotons)
-* [Deep Nets with Subsampling Layers Unwittingly Discard Useful Activations at Test-Time](https://arxiv.org/abs/2410.01083)<br>:star:[code](https://github.com/ca-joe-yang/discard-in-subsampling)
-* [Resilience of Entropy Model in Distributed Neural Networks](https://arxiv.org/abs/2403.00942)<br>:star:[code](https://github.com/Restuccia-Group/EntropyR)
-* [G2fR: Frequency Regularization in Grid-based Feature Encoding Neural Radiance Fields](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03259.pdf)
-* [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](https://arxiv.org/abs/2403.12013)<br>:house:[project](https://fuxiao0719.github.io/projects/geowizard/)
+10月25日更新 29 篇，共计 1204+29 篇。
+* [Shape-guided Configuration-aware Learning for Endoscopic-image-based Pose Estimation of Flexible Robotic Instruments](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03268.pdf)<br>:house:[project](https://poseflex.github.io/)医学机器人
+* [Domesticating SAM for Breast Ultrasound Image Segmentation via Spatial-frequency Fusion and Uncertainty Correction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03309.pdf)<br>:star:[code](https://github.com/dodooo1/SFRecSAM)
+* [CardiacNet: Learning to Reconstruct Abnormalities for Cardiac Disease Assessment from Echocardiogram Videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03391.pdf)<br>:star:[code](https://github.com/xmed-lab/CardiacNet)心脏病评估
+* [VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03403.pdf)<br>:star:[code](https://github.com/zhixue-fang/VPSAM)息肉分割
+* [Responsible Visual Editing](https://arxiv.org/abs/2404.05580)<br>:star:[code](https://github.com/kodenii/Responsible-Visual-Editing)
+* [Rebalancing Using Estimated Class Distribution for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03287.pdf)半监督学习
+* [Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03298.pdf)<br>:star:[code](https://github.com/HuangJunJie2017/BEVDet)
+* [Exploiting Dual-Correlation for Multi-frame Time-of-Flight Denoising](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03302.pdf)<br>:star:[code](https://github.com/gtdong-ustc/multi-frame-tof-denoising)
+* [Camera Height Doesn't Change: Unsupervised Training for Metric Monocular Road-Scene Depth Estimation](https://arxiv.org/abs/2312.04530)<br>:house:[project](https://vision.ist.i.kyoto-u.ac.jp/research/fumet/)
+* [Reliability in Semantic Segmentation: Can We Use Synthetic Data?](https://arxiv.org/abs/2312.09231)<br>:star:[code](https://github.com/valeoai/GenVal)
+* [Chameleon: A Data-Efficient Generalist for Dense Visual Prediction in the Wild](https://arxiv.org/abs/2404.18459)(https://github.com/GitGyun/chameleon)密集视觉预测
+* [FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models](https://arxiv.org/abs/2406.10740)
+* [Uni3DL: A Unified Model for 3D Vision-Language Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03330.pdf)<br>:house:[project](https://uni3dl.github.io/)
+* [PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference](https://arxiv.org/abs/2403.16020)<br>:star:[code](https://github.com/tanvir-utexas/PaPr)剪
+* [UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving](https://arxiv.org/abs/2308.10421)<br>:star:[code](https://github.com/hollow-503/UniM2AE)
+* [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428)<br>:star:[code](https://github.com/CuriseJia/FreeStyleRet)
+* [GENIXER: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731)<br>:star:[code](https://github.com/zhaohengyuan1/Genixer)
+* [The Nerfect Match: Exploring NeRF Features for Visual Localization](https://arxiv.org/abs/2403.09577)
+* [De-confounded Gaze Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03367.pdf)
+* [Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement](https://www.arxiv.org/abs/2408.12316)<br>:star:[code](https://github.com/lingyzhu0101/UDU.git)
+* [Improving Knowledge Distillation via Regularizing Feature Direction and Norm](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03432.pdf)
+* [3DFG-PIFu: 3D Feature Grids for Human Digitization from Sparse Views](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03433.pdf)
+* [AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation](https://arxiv.org/abs/2406.01194)
+* [PreLAR: World Model Pre-training with Learnable Action Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)<br>:star:[code](https://github.com/zhanglixuan0720/PreLAR)
+* [Dataset Enhancement with Instance-Level Augmentations](https://arxiv.org/abs/2406.08249)<br>:star:[code](https://github.com/KupynOrest/instance_augmentation)
+* [Non-parametric Sensor Noise Modeling and Synthesis](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03438.pdf)
+* [Stripe Observation Guided Inference Cost-free Attention Mechanism](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03451.pdf)<br>:star:[code](https://github.com/zhongshsh/ASR)
+* [Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation](https://arxiv.org/abs/2310.07506)
+* [Object-Aware NIR-to-Visible Translation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03338.pdf)<br>:star:[code](https://github.com/Yiiclass/Sherry)红外
 
 
 <br>:star:[code]()<br>:house:[project]()
 <br>:thumbsup:<br>🤗[huggingface]
 ASDF
 
+
+
+## Dense Prediction
+* [Chameleon: A Data-Efficient Generalist for Dense Visual Prediction in the Wild](https://arxiv.org/abs/2404.18459)(https://github.com/GitGyun/chameleon)密集视觉预测
 
 ## Information Security(信息安全)
 * 图像水印
@@ -307,6 +281,7 @@ bs/2408.16426v1)
   * [Towards High-Quality 3D Motion Transfer with Realistic Apparel Animation](http://arxiv.org/abs/2407.11266v1)<br>:star:[code](https://github.com/rongakowang/MMDMC)
 
 ## Gaze Estimation
+* [De-confounded Gaze Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03367.pdf)
 * [3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03191.pdf)<br>:star:[code](https://github.com/eververas/3DGazeNet)
 
 ## Action Detection(动作检测)
@@ -370,6 +345,7 @@ bs/2408.16426v1)
 * [EMDM: Efficient Motion Diffusion Model for Fast and High-Quality Motion Generation](https://arxiv.org/abs/2312.02256)<br>:star:[code](https://github.com/Frank-ZY-Dou/EMDM)<br>:house:[project](https://frank-zy-dou.github.io/projects/EMDM/index.html)
 * [Bridging the Gap Between Human Motion and Action Semantics via Kinematics Phrases](https://arxiv.org/abs/2310.04189)<br>:house:[project](https://foruck.github.io/KP/)人体运动
 * [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01796.pdf)<br>:house:[project](https://yufu-wang.github.io/tram4d/)人体运动
+* [FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models](https://arxiv.org/abs/2406.10740)
 * [MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model](https://arxiv.org/abs/2404.19759)<br>:star:[code](https://github.com/Dai-Wenxun/MotionLCM)
 * [Realistic Human Motion Generation with Cross-Diffusion Models](https://arxiv.org/abs/2312.10993)<br>:house:[project](https://wonderno.github.io/CrossDiff-webpage/)人体运动
 * 三维人体运动合成
@@ -473,6 +449,7 @@ bs/2408.16426v1)
   * [Image-Feature Weak-to-Strong Consistency: An Enhanced Paradigm for Semi-Supervised Learning](https://arxiv.org/abs/2408.12614)  
   * [Improving 3D Semi-supervised Learning by Effectively Utilizing All Unlabelled Data](http://arxiv.org/abs/2409.13977v1)<br>:star:[code](https://github.com/snehaputul/AllMatch)
   * [SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning](http://arxiv.org/abs/2409.17512v1)
+  * [Rebalancing Using Estimated Class Distribution for Imbalanced Semi-Supervised Learning under Class Distribution Mismatch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03287.pdf)半监督学习
  
 
 ## Novel Class Discovery(新类发现)
@@ -489,6 +466,7 @@ bs/2408.16426v1)
 * [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training](http://arxiv.org/abs/2407.06167v1)
 * 剪枝
   * [Straightforward Layer-wise Pruning for More Efficient Visual Adaptation](http://arxiv.org/abs/2407.14330v1)
+  * [PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference](https://arxiv.org/abs/2403.16020)<br>:star:[code](https://github.com/tanvir-utexas/PaPr)剪
 * 量化
   * [GenQ: Quantization in Low Data Regimes with Generative Synthetic Data](https://arxiv.org/abs/2312.05272v2)<br>:star:[code](https://github.com/Intelligent-Computing-Lab-Yale/GenQ)
   * [MetaAug: Meta-Data Augmentation for Post-Training Quantization](http://arxiv.org/abs/2407.14726v1)
@@ -497,6 +475,7 @@ bs/2408.16426v1)
   * [AdaLog: Post-Training Quantization for Vision Transformers with Adaptive Logarithm Quantizer](http://arxiv.org/abs/2407.12951v1)<br>:star:[code](https://github.com/GoatWu/AdaLog)
 * KD
   * [Simple Unsupervised Knowledge Distillation With Space Similarity](https://arxiv.org/abs/2409.13939)知识蒸馏
+  * [Improving Knowledge Distillation via Regularizing Feature Direction and Norm](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03432.pdf)
   * [Adversarially Robust Distillation by Reducing the Student-Teacher Variance Gap](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00499.pdf)蒸馏
   * [Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation](https://arxiv.org/abs/2407.03056)<br>:star:[code](https://github.com/miccunifi/KDPL)
 
@@ -654,13 +633,18 @@ bs/2408.16426v1)
   * [Towards Open-Ended Visual Recognition with Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02233.pdf)<br>:star:[code](https://github.com/bytedance/OmniScient-Model)
   * [Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos](https://arxiv.org/abs/2409.20557)<br>:house:[project](https://sites.google.com/view/vidassist)
   * [AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting](https://arxiv.org/abs/2403.09513)<br>:star:[code](https://github.com/SaFoLab-WISC/AdaShield)
+  * [GENIXER: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731)<br>:star:[code](https://github.com/zhaohengyuan1/Genixer)
   * [Elysium: Exploring Object-level Perception in Videos through Semantic Integration Using MLLMs](https://arxiv.org/abs/2403.16558)<br>:star:[code](https://github.com/Hon-Wong/Elysium)
+* 视觉定位
+  * [The Nerfect Match: Exploring NeRF Features for Visual Localization](https://arxiv.org/abs/2403.09577)
 * Visual Grounding
   * [LoA-Trans: Enhancing Visual Grounding by Location-Aware Transformers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01177.pdf)
 * 视觉意图理解
   * [Synergy of Sight and Semantics: Visual Intention Understanding with CLIP](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01721.pdf)<br>:star:[code](https://github.com/yan9qu/IntCLIP)
 * 引用表达理解
   * [APL: Anchor-based Prompt Learning for One-stage Weakly Supervised Referring Expression Comprehension](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02055.pdf)<br>:star:[code](https://github.com/Yaxin9Luo/APL)
+* 视觉语言理解
+  * [Uni3DL: A Unified Model for 3D Vision-Language Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03330.pdf)<br>:house:[project](https://uni3dl.github.io/)
 
 ## Scene 
 * 场景合成
@@ -707,6 +691,7 @@ bs/2408.16426v1)
 * [SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic](https://arxiv.org/abs/2403.17933)
 * [I Can't Believe It's Not Scene Flow!](https://arxiv.org/abs/2403.04739)<br>:star:[code](https://github.com/kylevedder/BucketedSceneFlowEval)场景流
 * [Safe-Sim: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries](https://arxiv.org/abs/2401.00391)<br>:house:[project](https://safe-sim.github.io/)交通
+* [UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving](https://arxiv.org/abs/2308.10421)<br>:star:[code](https://github.com/hollow-503/UniM2AE)
 * 轨迹预测
   * [Risk-Aware Self-Consistent Imitation Learning for Trajectory Planning in Autonomous Driving](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02087.pdf)
   * [Progressive Pretext Task Learning for Human Trajectory Prediction](http://arxiv.org/abs/2407.11588v1)<br>:star:[code](https://github.com/iSEE-Laboratory/PPT)
@@ -754,6 +739,7 @@ bs/2408.16426v1)
 * [Multistain Pretraining for Slide Representation Learning in Pathology](http://arxiv.org/abs/2408.02859v1)<br>:star:[code](https://github.com/mahmoodlab/MADELEINE)
 * [Energy-induced Explicit quantification for Multi-modality MRI fusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01183.pdf)<br>:star:[code](https://github.com/JerryQseu/EEPA)
 * [Brain-ID: Learning Contrast-agnostic Anatomical Representations for Brain Imaging](https://arxiv.org/abs/2311.16914)<br>:star:[code](https://github.com/peirong26/Brain-ID)
+* [CardiacNet: Learning to Reconstruct Abnormalities for Cardiac Disease Assessment from Echocardiogram Videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03391.pdf)<br>:star:[code](https://github.com/xmed-lab/CardiacNet)心脏病评估
 * 切片图像分类
   * [DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2407.03575v1)<br>:star:[code](https://github.com/ChongQingNoSubway/DGR-MIL)
   * [Pathology-knowledge Enhanced Multi-instance Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2407.10814v1)
@@ -761,13 +747,18 @@ bs/2408.16426v1)
 * 医学图像分割
   * [FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification](http://arxiv.org/abs/2407.08813v1)<br>:house:[project](https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k)<br>:star:[code](https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain)  
   * [PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised Medical Image Segmentation](http://arxiv.org/abs/2409.05122v1)<br>:star:[code](https://github.com/Axi404/PMT)
+  * [Domesticating SAM for Breast Ultrasound Image Segmentation via Spatial-frequency Fusion and Uncertainty Correction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03309.pdf)<br>:star:[code](https://github.com/dodooo1/SFRecSAM)
   * [Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2311.17325)<br>:star:[code](https://github.com/ZhenZHAO/AD-MT)
   * [I-MedSAM: Implicit Medical Image Segmentation with Segment Anything](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01503.pdf)<br>:star:[code](https://github.com/ucwxb/I-MedSAM)
+  * [VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03403.pdf)<br>:star:[code](https://github.com/zhixue-fang/VPSAM)息肉分割
 * 放射学报告生成
   * [Contrastive Learning with Counterfactual Explanations for Radiology Report Generation](http://arxiv.org/abs/2407.14474v1)
   * [HERGen: Elevating Radiology Report Generation with Longitudinal Data](http://arxiv.org/abs/2407.15158v1)
 * X 光片
   * [ChEX: Interactive Localization and Region Description in Chest X-rays](https://arxiv.org/abs/2404.15770)<br>:star:[code](https://github.com/philip-mueller/chex)胸部 X 光片
+* 医学机器人
+  * [Shape-guided Configuration-aware Learning for Endoscopic-image-based Pose Estimation of Flexible Robotic Instruments](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03268.pdf)<br>:house:[project](https://poseflex.github.io/)
+
 
 
 
@@ -852,6 +843,7 @@ bs/2408.16426v1)
   * [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](http://arxiv.org/abs/2407.17850v1)
   * [Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing](https://arxiv.org/abs/2403.09468)<br>:star:[code](https://github.com/furiosa-ai/eta-inversion)
   * [RadEdit: stress-testing biomedical vision models via diffusion image editing](https://arxiv.org/abs/2312.12865)
+  * [Responsible Visual Editing](https://arxiv.org/abs/2404.05580)<br>:star:[code](https://github.com/kodenii/Responsible-Visual-Editing)
 * 图像-视频
    * [Rethinking Image-to-Video Adaptation: An Object-centric Perspective](http://arxiv.org/abs/2407.06871v1)
 * 文本-视频
@@ -988,6 +980,7 @@ bs/2408.16426v1)
 * [IRGen: Generative Modeling for Image Retrieval](https://arxiv.org/abs/2303.10126)<br>:star:[code](https://github.com/yakt00/IRGen)
 * [FastCAD: Real-Time CAD Retrieval and Alignment from Scans and Videos](https://arxiv.org/abs/2403.15161)
 * [Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2405.00571)<br>:star:[code](https://github.com/youngkyunJang/SLERP-TAT)
+* [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428)<br>:star:[code](https://github.com/CuriseJia/FreeStyleRet)
 * 基于草图的图像检索
   * [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](http://arxiv.org/abs/2407.01810v1)
   * [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](http://arxiv.org/abs/2407.04207v1)<br>:star:[code](https://github.com/mainaksingha01/SpLIP)
@@ -1048,6 +1041,7 @@ bs/2408.16426v1)
   * [Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation](http://arxiv.org/abs/2407.11344v1)
   * [Learning Modality-agnostic Representation for Semantic Segmentation from Any Modalities](http://arxiv.org/abs/2407.11351v1)
   * [SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds](http://arxiv.org/abs/2407.11569v1)<br>:house:[project](https://www.semanticindustry.top)<br>:star:[code](https://github.com/Cavendish518/SFPNet)
+  * [Reliability in Semantic Segmentation: Can We Use Synthetic Data?](https://arxiv.org/abs/2312.09231)<br>:star:[code](https://github.com/valeoai/GenVal)
   * [Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation](https://arxiv.org/abs/2407.09047)
   * [MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis](http://arxiv.org/abs/2407.13675v1)<br>:star:[code](https://github.com/zimingzhong/MeshSegmenter)
   * 3D语义分割
@@ -1146,6 +1140,7 @@ bs/2408.16426v1)
   * [BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion](https://arxiv.org/abs/2403.06976)<br>:house:[project](https://tencentarc.github.io/BrushNet/)
 * 去噪
   * [TTT-MIM: Test-Time Training with Masked Image Modeling for Denoising Distribution Shifts](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01921.pdf)<br>:star:[code](https://github.com/MLI-lab/TTT_Denoising)
+  * [Exploiting Dual-Correlation for Multi-frame Time-of-Flight Denoising](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03302.pdf)<br>:star:[code](https://github.com/gtdong-ustc/multi-frame-tof-denoising)
 * 去模糊
   * [Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions](http://arxiv.org/abs/2409.17988v1)<br>:star:[code](https://wengflow.github.io/deblur-e-nerf)
   * [UniINR: Event-guided Unified Rolling Shutter Correction, Deblurring, and Interpolation](https://arxiv.org/abs/2305.15078)<br>:star:[code](https://github.com/yunfanLu/UniINR)
@@ -1182,6 +1177,7 @@ bs/2408.16426v1)
   * [ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization](https://arxiv.org/abs/2404.06251)<br>:star:[code](https://github.com/yyang181/colormnet)
 * 视频增强
   * [Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models](http://arxiv.org/abs/2407.10285v1)<br>:star:[code](https://yangqy1110.github.io/NC-SDEdit/)<br>:star:[code](https://github.com/yangqy1110/NC-SDEdit/)
+  * [Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement](https://www.arxiv.org/abs/2408.12316)<br>:star:[code](https://github.com/lingyzhu0101/UDU.git)
 * 视频去雪
   * [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01500.pdf)<br>:star:[code](https://github.com/TonyHongtaoWu/SemiVDN)去雪
 * 视频去模糊
@@ -1256,6 +1252,7 @@ bs/2408.16426v1)
   * [General Geometry-aware Weakly Supervised 3D Object Detection](http://arxiv.org/abs/2407.13748v1)<br>:star:[code](https://github.com/gwenzhang/GGA)
   * [Interactive 3D Object Detection with Prompts](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02556.pdf)
   * [Beyond Viewpoint: Robust 3D Object Recognition under Arbitrary Views through Joint Multi-Part Representation](http://arxiv.org/abs/2407.03842v1)
+  * [Detecting As Labeling: Rethinking LiDAR-camera Fusion in 3D Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03298.pdf)<br>:star:[code](https://github.com/HuangJunJie2017/BEVDet)
 * 小目标检测
   * [IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection](http://arxiv.org/abs/2407.07520v1)
   * [Visible and Clear: Finding Tiny Objects in Difference Map](https://arxiv.org/abs/2405.11276)
@@ -1458,6 +1455,7 @@ bs/2408.16426v1)
   * [High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior](http://arxiv.org/abs/2408.00361v1)
   * [DiffusionDepth: Diffusion Denoising Approach for Monocular Depth Estimation](https://arxiv.org/abs/2303.05021)<br>:star:[code](https://github.com/duanyiqun/DiffusionDepth)
   * [SEDiff: Structure Extraction for Domain Adaptive Depth Estimation via Denoising Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02829.pdf)
+  * [Camera Height Doesn't Change: Unsupervised Training for Metric Monocular Road-Scene Depth Estimation](https://arxiv.org/abs/2312.04530)<br>:house:[project](https://vision.ist.i.kyoto-u.ac.jp/research/fumet/)
 * 深度补全
   * [Deep Cost Ray Fusion for Sparse Depth Video Completion](http://arxiv.org/abs/2409.14935v1)
   * [OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations](https://arxiv.org/abs/2406.11711)<br>:star:[code](https://github.com/princeton-vl/OGNI-DC)
@@ -1696,6 +1694,14 @@ bs/2408.16426v1)
 * [SeA: Semantic Adversarial Augmentation for Last Layer Features from Unsupervised Representation Learning](http://arxiv.org/abs/2408.13351v1)<br>:star:[code](https://github.com/idstcv/SeA)
 * [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)<br>:star:[code](https://github.com/open-compass/VLMEvalKit)<br>:house:[project](https://opencompass.org.cn/mmbench)
 * [DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs](https://arxiv.org/abs/2403.19588)<br>:star:[code](https://github.com/naver-ai/rdnet)
+* [3DFG-PIFu: 3D Feature Grids for Human Digitization from Sparse Views](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03433.pdf)
+* [AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation](https://arxiv.org/abs/2406.01194)
+* [PreLAR: World Model Pre-training with Learnable Action Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf)<br>:star:[code](https://github.com/zhanglixuan0720/PreLAR)
+* [Dataset Enhancement with Instance-Level Augmentations](https://arxiv.org/abs/2406.08249)<br>:star:[code](https://github.com/KupynOrest/instance_augmentation)
+* [Non-parametric Sensor Noise Modeling and Synthesis](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03438.pdf)
+* [Stripe Observation Guided Inference Cost-free Attention Mechanism](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03451.pdf)<br>:star:[code](https://github.com/zhongshsh/ASR)
+* [Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation](https://arxiv.org/abs/2310.07506)
+* [Object-Aware NIR-to-Visible Translation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03338.pdf)<br>:star:[code](https://github.com/Yiiclass/Sherry)红外
 
 
 <a name="0"/>
