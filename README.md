@@ -55,6 +55,36 @@
 * [Test-Time Stain Adaptation with Diffusion Models for Histopathology Image Classification](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05175.pdf)组织病理学图像分类
 * [Camera-LiDAR Cross-modality Gait Recognition](https://arxiv.org/abs/2407.02038)
 
+
+------------------------------------------------------------------
+* [LayoutFlow: Flow Matching for Layout Generation](https://arxiv.org/abs/2403.18187)<br>:house:[project](https://julianguerreiro.github.io/layoutflow/)
+
+* [Making Large Language Models Better Planners with Reasoning-Decision Alignment](https://arxiv.org/abs/2408.13890)
+
+* [Representation Enhancement-Stabilization: Reducing Bias-Variance of Domain Generalization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05278.pdf)<br>:star:[code](https://github.com/zhu-xlab/DG-RES)
+
+* [An Optimization Framework to Enforce Multi-View Consistency for Texturing 3D Meshes](https://arxiv.org/abs/2403.15559)<br>:house:[project](https://aigc3d.github.io/ConsistenTex)
+
+* [RGBD GS-ICP SLAM](https://arxiv.org/abs/2403.12550)<br>:star:[code](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM)
+
+* [Revisiting Calibration of Wide-Angle Radially Symmetric Cameras](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05302.pdf)<br>:star:[code](http://github.com/andreadalcin/RadiallySymmetricCalib)相机校准
+
+
+* [Efficient NeRF Optimization - Not All Samples Remain Equally Hard](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05300.pdf)
+
+* [Revisiting Domain-Adaptive Object Detection in Adverse Weather by the Generation and Composition of High-Quality Pseudo-Labels](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05312.pdf)<br>:star:[code](https://github.com/iu110/GCHQ/)
+
+* [Pseudo-Embedding for Generalized Few-Shot Point Cloud Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05346.pdf)<br>:star:[code](https://github.com/jimtsai23/PseudoEmbed)
+
+* [Statewide Visual Geolocalization in the Wild](https://arxiv.org/abs/2409.16763)<br>:star:[code](https://github.com/fferflo/statewide-visual-geolocalization)地理定位
+
+* [STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians](https://arxiv.org/abs/2403.14939)<br>:star:[code](https://github.com/zeng-yifei/STAG4D)
+* [Synchronization of Projective Transformations](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05369.pdf)
+* [UniCal: Unified Neural Sensor Calibration](https://arxiv.org/abs/2409.18953)<br>:house:[project](https://waabi.ai/unical/)
+* [Rawformer: Unpaired Raw-to-Raw Translation for Learnable Camera ISPs](https://arxiv.org/abs/2404.10700)<br>:star:[code](https://github.com/gosha20777/rawformer)
+* [Robust Incremental Structure-from-Motion with Hybrid Features](https://arxiv.org/abs/2409.19811)
+* [Any2Point: Empowering Any-modality Transformers for Efficient 3D Understanding](https://arxiv.org/abs/2404.07989)<br>:star:[code](https://github.com/Ivan-Tang-3D/Any2Point)
+
 <br>:star:[code]()<br>:house:[project]()
 <br>:thumbsup:<br>🤗[huggingface]
 ASDF
