@@ -30,6 +30,8 @@
 * [Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models](https://arxiv.org/abs/2404.13706)<br>:house:[project](https://cs-people.bu.edu/vpetsiuk/arc/)
 
 ## 目录
+|:cat:|:dog:|:tiger:|:wolf:|
+|------|------|------|------|
 |[1.Other(其它)](#1)|[2.3D Visual](#2)|[3.Face(人脸)](#3)|[4.Pose(姿态估计)](#4)|
 |[5.OCR](#5)|[6.Object Tracking(目标跟踪)](#6)|[7.Object Detection(目标检测)](#7)|[8.Super-Resolution(超分辨率)](#8)|
 |[9.Image Progress(图像/视频处理)](#9)|[10.Image Classification(图像分类)](#10)|[11.Image Segmentation(图像分割)](#11)|[12.Image Retrieval(图像检索)](#12)|
