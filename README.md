@@ -1718,7 +1718,7 @@
 
 ## 11.Image Segmentation(图像分割)
 * [Occlusion-Aware Seamless Segmentation](http://arxiv.org/abs/2407.02182v1)<br>:star:[code](https://github.com/yihong-97/OASS)
-* [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding](http://arxiv.org/abs/2407.03200v1)<br>:star:[code](https://github.com/WeitaiKang/SegVG)
+* [SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding](http://arxiv.org/abs/2407.03200v1)<br>:star:[code](https://github.com/WeitaiKang/SegVG)<br>:Thumbsup:[视觉定位新SOTA！SegVG：将视觉定位的目标边界框转化为分割信号（已开源）](https://mp.weixin.qq.com/s/wcaL11lI-hvH_bd_Eh-jvw)
 * [Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts](http://arxiv.org/abs/2407.11382v1)
 * [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/abs/2401.02955)<br>:star:[code](https://github.com/HarborYuan/ovsam)<br>:house:[project](https://www.mmlab-ntu.com/project/ovsam)
 * [Segment and Recognize Anything at Any Granularity](https://arxiv.org/abs/2307.04767)<br>:star:[code](https://github.com/UX-Decoder/Semantic-SAM)
@@ -2014,7 +2014,7 @@
 * 图像质量评估
   * [DSMix: Distortion-Induced Sensitivity Map Based Pre-training for No-Reference Image Quality Assessment](http://arxiv.org/abs/2407.03886v1)<br>:star:[code](https://github.com/I2-Multimedia-Lab/DSMix)
   * [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854)
-  * [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641)<br>:star:[code](https://huggingface.co/q-future/co-instruct)
+  * [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641)<br>:star:[code](https://huggingface.co/q-future/co-instruct)<br>:Thumbsup:[Co-Instruct: 让通用多模态大模型学会比较视觉质量](https://mp.weixin.qq.com/s/ZCoxQM9RMch59rE4s9Oipw)
   * [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993)无参考图像质量评估
   * [Assessing UHD Image Quality from Aesthetics, Distortions, and Saliency](http://arxiv.org/abs/2409.00749v1)<br>:star:[code](https://github.com/sunwei925/UIQA)
   * [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962)<br>:house:[project](https://depictqa.github.io/)
